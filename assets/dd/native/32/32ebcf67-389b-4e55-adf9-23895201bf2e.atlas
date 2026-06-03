@@ -1,0 +1,111 @@
+
+rulaisz.png
+size: 919,1051
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 123, 6
+  size: 70, 59
+  orig: 205, 130
+  offset: 72, 3
+  index: -1
+1_00001
+  rotate: false
+  xy: 661, 77
+  size: 143, 85
+  orig: 205, 130
+  offset: 32, 6
+  index: -1
+1_00002
+  rotate: false
+  xy: 398, 56
+  size: 166, 106
+  orig: 205, 130
+  offset: 23, 6
+  index: -1
+1_00003
+  rotate: true
+  xy: 808, 218
+  size: 166, 109
+  orig: 205, 130
+  offset: 23, 6
+  index: -1
+1_00004
+  rotate: false
+  xy: 722, 786
+  size: 183, 107
+  orig: 205, 130
+  offset: 12, 7
+  index: -1
+1_00005
+  rotate: false
+  xy: 722, 568
+  size: 183, 106
+  orig: 205, 130
+  offset: 12, 7
+  index: -1
+1_00006
+  rotate: false
+  xy: 722, 676
+  size: 180, 108
+  orig: 205, 130
+  offset: 9, 8
+  index: -1
+1_00007
+  rotate: true
+  xy: 808, 386
+  size: 180, 106
+  orig: 205, 130
+  offset: 9, 10
+  index: -1
+1_00008
+  rotate: true
+  xy: 808, 43
+  size: 173, 103
+  orig: 205, 130
+  offset: 13, 12
+  index: -1
+1_00010
+  rotate: true
+  xy: 566, 7
+  size: 155, 93
+  orig: 205, 130
+  offset: 22, 12
+  index: -1
+ggg
+  rotate: false
+  xy: 2, 582
+  size: 718, 467
+  orig: 725, 485
+  offset: 4, 18
+  index: -1
+sheguang_0000
+  rotate: true
+  xy: 2, 2
+  size: 74, 119
+  orig: 310, 310
+  offset: 123, 142
+  index: -1
+sz
+  rotate: true
+  xy: 2, 78
+  size: 502, 394
+  orig: 503, 454
+  offset: 1, 0
+  index: -1
+xingchen_0001
+  rotate: true
+  xy: 722, 895
+  size: 154, 155
+  orig: 372, 310
+  offset: 108, 79
+  index: -1
+xingchenbb_0000
+  rotate: false
+  xy: 398, 164
+  size: 408, 402
+  orig: 496, 496
+  offset: 59, 50
+  index: -1

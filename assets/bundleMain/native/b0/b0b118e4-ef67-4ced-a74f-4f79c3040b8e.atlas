@@ -1,0 +1,153 @@
+
+jiemianjiazha.png
+size: 1868,1685
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_4
+  rotate: true
+  xy: 1672, 773
+  size: 910, 194
+  orig: 913, 228
+  offset: 1, 32
+  index: -1
+1_5
+  rotate: true
+  xy: 1006, 438
+  size: 241, 451
+  orig: 241, 451
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 1459, 231
+  size: 241, 448
+  orig: 241, 448
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 2, 2
+  size: 1002, 677
+  orig: 1004, 680
+  offset: 1, 2
+  index: -1
+1_8
+  rotate: true
+  xy: 2, 681
+  size: 1002, 1668
+  orig: 1004, 1670
+  offset: 1, 1
+  index: -1
+tx1/huoyanxulie_01
+  rotate: true
+  xy: 1358, 382
+  size: 54, 86
+  orig: 115, 115
+  offset: 29, 2
+  index: -1
+tx1/huoyanxulie_02
+  rotate: false
+  xy: 1285, 224
+  size: 57, 89
+  orig: 115, 115
+  offset: 28, 5
+  index: -1
+tx1/huoyanxulie_03
+  rotate: false
+  xy: 1164, 216
+  size: 59, 92
+  orig: 115, 115
+  offset: 27, 3
+  index: -1
+tx1/huoyanxulie_04
+  rotate: true
+  xy: 1073, 372
+  size: 64, 98
+  orig: 115, 115
+  offset: 25, 2
+  index: -1
+tx1/huoyanxulie_05
+  rotate: true
+  xy: 1260, 378
+  size: 58, 96
+  orig: 115, 115
+  offset: 28, 3
+  index: -1
+tx1/huoyanxulie_06
+  rotate: false
+  xy: 1103, 152
+  size: 59, 106
+  orig: 115, 115
+  offset: 27, 0
+  index: -1
+tx1/huoyanxulie_07
+  rotate: true
+  xy: 1006, 260
+  size: 65, 108
+  orig: 115, 115
+  offset: 21, 3
+  index: -1
+tx1/huoyanxulie_08
+  rotate: false
+  xy: 1006, 327
+  size: 65, 109
+  orig: 115, 115
+  offset: 22, 2
+  index: -1
+tx1/huoyanxulie_09
+  rotate: true
+  xy: 1672, 703
+  size: 68, 111
+  orig: 115, 115
+  offset: 22, 1
+  index: -1
+tx1/huoyanxulie_10
+  rotate: true
+  xy: 1006, 194
+  size: 64, 95
+  orig: 115, 115
+  offset: 23, 1
+  index: -1
+tx1/huoyanxulie_11
+  rotate: true
+  xy: 1116, 310
+  size: 60, 95
+  orig: 115, 115
+  offset: 27, 0
+  index: -1
+tx1/huoyanxulie_12
+  rotate: false
+  xy: 1006, 96
+  size: 60, 96
+  orig: 115, 115
+  offset: 28, 2
+  index: -1
+tx1/huoyanxulie_13
+  rotate: false
+  xy: 1225, 230
+  size: 58, 83
+  orig: 115, 115
+  offset: 25, 0
+  index: -1
+tx1/huoyanxulie_14
+  rotate: true
+  xy: 1173, 376
+  size: 60, 85
+  orig: 115, 115
+  offset: 25, 0
+  index: -1
+tx1/huoyanxulie_15
+  rotate: true
+  xy: 1213, 315
+  size: 59, 83
+  orig: 115, 115
+  offset: 27, 0
+  index: -1
+tx1/huoyanxulie_16
+  rotate: true
+  xy: 1298, 320
+  size: 56, 82
+  orig: 115, 115
+  offset: 27, 2
+  index: -1

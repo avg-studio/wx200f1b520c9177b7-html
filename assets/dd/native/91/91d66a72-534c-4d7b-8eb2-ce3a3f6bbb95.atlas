@@ -1,0 +1,104 @@
+
+guai_7.png
+size: 1224,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8_arm_L
+  rotate: false
+  xy: 799, 271
+  size: 103, 285
+  orig: 103, 285
+  offset: 0, 0
+  index: -1
+8_arm_R
+  rotate: false
+  xy: 903, 274
+  size: 104, 282
+  orig: 104, 282
+  offset: 0, 0
+  index: -1
+8_body
+  rotate: false
+  xy: 260, 214
+  size: 261, 342
+  orig: 261, 342
+  offset: 0, 0
+  index: -1
+8_eye
+  rotate: true
+  xy: 195, 9
+  size: 164, 65
+  orig: 164, 65
+  offset: 0, 0
+  index: -1
+8_head
+  rotate: false
+  xy: 522, 244
+  size: 276, 312
+  orig: 276, 312
+  offset: 0, 0
+  index: -1
+8_leg_L
+  rotate: false
+  xy: 761, 34
+  size: 111, 209
+  orig: 111, 209
+  offset: 0, 0
+  index: -1
+8_leg_R
+  rotate: false
+  xy: 1074, 11
+  size: 111, 209
+  orig: 111, 209
+  offset: 0, 0
+  index: -1
+8_mouth
+  rotate: false
+  xy: 1074, 221
+  size: 149, 80
+  orig: 149, 80
+  offset: 0, 0
+  index: -1
+8_she_1
+  rotate: true
+  xy: 261, 1
+  size: 212, 249
+  orig: 212, 249
+  offset: 0, 0
+  index: -1
+8_she_2
+  rotate: false
+  xy: 873, 16
+  size: 200, 254
+  orig: 200, 254
+  offset: 0, 0
+  index: -1
+8_she_3
+  rotate: true
+  xy: 511, 1
+  size: 212, 249
+  orig: 212, 249
+  offset: 0, 0
+  index: -1
+8_she_4
+  rotate: false
+  xy: 1008, 302
+  size: 200, 254
+  orig: 200, 254
+  offset: 0, 0
+  index: -1
+8_she_5
+  rotate: true
+  xy: 1, 35
+  size: 521, 193
+  orig: 521, 193
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 195, 174
+  size: 382, 64
+  orig: 382, 64
+  offset: 0, 0
+  index: -1

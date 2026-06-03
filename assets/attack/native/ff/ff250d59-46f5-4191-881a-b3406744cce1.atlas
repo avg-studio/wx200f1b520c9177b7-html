@@ -1,0 +1,90 @@
+
+huozi3.png
+size: 1208,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huozi_2
+  rotate: true
+  xy: 170, 3
+  size: 122, 182
+  orig: 124, 189
+  offset: 1, 7
+  index: -1
+huozi_3
+  rotate: true
+  xy: 2, 2
+  size: 123, 166
+  orig: 125, 167
+  offset: 1, 1
+  index: -1
+huozi_4
+  rotate: false
+  xy: 482, 137
+  size: 272, 436
+  orig: 272, 439
+  offset: 0, 0
+  index: -1
+huozi_5
+  rotate: false
+  xy: 1062, 22
+  size: 144, 181
+  orig: 144, 181
+  offset: 0, 0
+  index: -1
+huozi_6
+  rotate: true
+  xy: 864, 60
+  size: 77, 149
+  orig: 77, 150
+  offset: 0, 0
+  index: -1
+huozi_7
+  rotate: true
+  xy: 864, 4
+  size: 54, 196
+  orig: 56, 204
+  offset: 1, 7
+  index: -1
+huozi_8
+  rotate: true
+  xy: 354, 45
+  size: 88, 187
+  orig: 89, 196
+  offset: 1, 8
+  index: -1
+tx1/p1
+  rotate: false
+  xy: 999, 205
+  size: 204, 368
+  orig: 205, 369
+  offset: 1, 1
+  index: -1
+tx1/p2
+  rotate: false
+  xy: 756, 139
+  size: 241, 434
+  orig: 242, 436
+  offset: 0, 1
+  index: -1
+tx1/p3
+  rotate: false
+  xy: 237, 135
+  size: 243, 438
+  orig: 245, 439
+  offset: 1, 0
+  index: -1
+tx1/p4
+  rotate: false
+  xy: 2, 127
+  size: 233, 446
+  orig: 235, 447
+  offset: 1, 1
+  index: -1
+yy
+  rotate: false
+  xy: 543, 49
+  size: 319, 86
+  orig: 319, 86
+  offset: 0, 0
+  index: -1

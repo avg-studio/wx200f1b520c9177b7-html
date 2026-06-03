@@ -1,0 +1,62 @@
+
+kuangbao.png
+size: 425,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 316, 588
+  size: 432, 107
+  orig: 436, 110
+  offset: 2, 1
+  index: -1
+03
+  rotate: true
+  xy: 262, 124
+  size: 161, 148
+  orig: 163, 150
+  offset: 1, 1
+  index: -1
+03_2
+  rotate: false
+  xy: 262, 2
+  size: 133, 120
+  orig: 135, 122
+  offset: 1, 1
+  index: -1
+04
+  rotate: true
+  xy: 316, 367
+  size: 219, 24
+  orig: 221, 26
+  offset: 1, 1
+  index: -1
+05
+  rotate: true
+  xy: 316, 367
+  size: 219, 24
+  orig: 221, 26
+  offset: 1, 1
+  index: -1
+06
+  rotate: true
+  xy: 262, 287
+  size: 733, 52
+  orig: 735, 54
+  offset: 1, 1
+  index: -1
+07
+  rotate: true
+  xy: 152, 71
+  size: 949, 108
+  orig: 951, 110
+  offset: 1, 1
+  index: -1
+08
+  rotate: true
+  xy: 2, 18
+  size: 1002, 148
+  orig: 1004, 150
+  offset: 1, 1
+  index: -1

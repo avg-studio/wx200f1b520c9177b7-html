@@ -1,0 +1,83 @@
+
+sheshou.png
+size: 184,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z_10
+  rotate: true
+  xy: 145, 2
+  size: 34, 19
+  orig: 36, 21
+  offset: 1, 1
+  index: -1
+z_11
+  rotate: true
+  xy: 57, 25
+  size: 50, 22
+  orig: 52, 24
+  offset: 1, 1
+  index: -1
+z_12
+  rotate: false
+  xy: 98, 59
+  size: 84, 16
+  orig: 86, 18
+  offset: 1, 1
+  index: -1
+z_2
+  rotate: true
+  xy: 81, 59
+  size: 6, 7
+  orig: 8, 9
+  offset: 1, 1
+  index: -1
+z_3
+  rotate: false
+  xy: 81, 67
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+z_4
+  rotate: false
+  xy: 81, 32
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+z_5
+  rotate: true
+  xy: 108, 33
+  size: 24, 34
+  orig: 26, 36
+  offset: 1, 1
+  index: -1
+z_6
+  rotate: true
+  xy: 2, 2
+  size: 73, 53
+  orig: 75, 55
+  offset: 1, 1
+  index: -1
+z_7
+  rotate: true
+  xy: 98, 6
+  size: 24, 45
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+z_8
+  rotate: false
+  xy: 57, 2
+  size: 39, 21
+  orig: 41, 23
+  offset: 1, 1
+  index: -1
+z_9
+  rotate: false
+  xy: 144, 38
+  size: 35, 19
+  orig: 37, 21
+  offset: 1, 1
+  index: -1

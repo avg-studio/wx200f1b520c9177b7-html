@@ -1,0 +1,132 @@
+
+wuqirongheji.png
+size: 2032,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a10
+  rotate: false
+  xy: 2, 59
+  size: 751, 136
+  orig: 926, 136
+  offset: 83, 0
+  index: -1
+a1_1
+  rotate: false
+  xy: 905, 90
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+a1_2
+  rotate: false
+  xy: 1012, 90
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+a1_3
+  rotate: false
+  xy: 1119, 90
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+a1_4
+  rotate: false
+  xy: 1226, 90
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+a1_5
+  rotate: false
+  xy: 1333, 90
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 755, 89
+  size: 106, 73
+  orig: 109, 75
+  offset: 2, 1
+  index: -1
+a8
+  rotate: true
+  xy: 830, 89
+  size: 106, 73
+  orig: 109, 75
+  offset: 1, 1
+  index: -1
+jineng_1_1
+  rotate: false
+  xy: 1479, 28
+  size: 297, 82
+  orig: 298, 84
+  offset: 1, 1
+  index: -1
+jineng_1_2
+  rotate: false
+  xy: 1178, 5
+  size: 299, 83
+  orig: 301, 84
+  offset: 1, 0
+  index: -1
+jineng_1_3
+  rotate: false
+  xy: 877, 4
+  size: 299, 83
+  orig: 301, 85
+  offset: 1, 1
+  index: -1
+jineng_1_4
+  rotate: false
+  xy: 1741, 112
+  size: 289, 83
+  orig: 291, 84
+  offset: 1, 0
+  index: -1
+jineng_1_5
+  rotate: false
+  xy: 1440, 112
+  size: 299, 83
+  orig: 300, 85
+  offset: 0, 1
+  index: -1
+jineng_2_1
+  rotate: false
+  xy: 1778, 55
+  size: 214, 55
+  orig: 214, 56
+  offset: 0, 1
+  index: -1
+jineng_2_2
+  rotate: false
+  xy: 659, 2
+  size: 216, 55
+  orig: 217, 56
+  offset: 1, 1
+  index: -1
+jineng_2_3
+  rotate: false
+  xy: 221, 2
+  size: 217, 55
+  orig: 218, 56
+  offset: 1, 1
+  index: -1
+jineng_2_4
+  rotate: false
+  xy: 440, 2
+  size: 217, 55
+  orig: 218, 56
+  offset: 1, 1
+  index: -1
+jineng_2_5
+  rotate: false
+  xy: 2, 2
+  size: 217, 55
+  orig: 218, 56
+  offset: 1, 1
+  index: -1

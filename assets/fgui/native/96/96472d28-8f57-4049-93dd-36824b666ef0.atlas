@@ -1,0 +1,90 @@
+
+brawlg.png
+size: 255,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 443
+  size: 251, 570
+  orig: 253, 571
+  offset: 1, 1
+  index: -1
+d1
+  rotate: true
+  xy: 228, 410
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 228, 267
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 228, 372
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 228, 389
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 2, 265
+  size: 224, 176
+  orig: 226, 185
+  offset: 1, 0
+  index: -1
+g2
+  rotate: true
+  xy: 2, 2
+  size: 261, 209
+  orig: 277, 215
+  offset: 8, 3
+  index: -1
+x1
+  rotate: false
+  xy: 213, 89
+  size: 19, 45
+  orig: 19, 47
+  offset: 0, 1
+  index: -1
+x2
+  rotate: false
+  xy: 213, 136
+  size: 29, 77
+  orig: 29, 78
+  offset: 0, 1
+  index: -1
+x3
+  rotate: false
+  xy: 234, 89
+  size: 19, 45
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 228, 299
+  size: 20, 71
+  orig: 20, 72
+  offset: 0, 1
+  index: -1
+x5
+  rotate: false
+  xy: 228, 215
+  size: 19, 50
+  orig: 20, 50
+  offset: 1, 0
+  index: -1

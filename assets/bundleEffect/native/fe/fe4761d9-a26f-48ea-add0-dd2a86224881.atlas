@@ -1,0 +1,167 @@
+
+boss_2_jinengshouji.png
+size: 1122,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 1057, 70
+  size: 19, 19
+  orig: 20, 19
+  offset: 1, 0
+  index: -1
+tx/lizi1_001
+  rotate: true
+  xy: 1078, 72
+  size: 17, 16
+  orig: 18, 16
+  offset: 1, 0
+  index: -1
+tx/lizi1_002
+  rotate: true
+  xy: 584, 4
+  size: 12, 18
+  orig: 12, 19
+  offset: 0, 1
+  index: -1
+tx/lizi1_003
+  rotate: true
+  xy: 565, 3
+  size: 13, 17
+  orig: 14, 17
+  offset: 1, 0
+  index: -1
+tx/quan1
+  rotate: false
+  xy: 1057, 91
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: true
+  xy: 752, 11
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+tx/sj1_023
+  rotate: false
+  xy: 788, 48
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+tx/sj1_024
+  rotate: false
+  xy: 685, 39
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+tx/sj1_025
+  rotate: false
+  xy: 565, 18
+  size: 118, 137
+  orig: 118, 137
+  offset: 0, 0
+  index: -1
+tx/sj1_026
+  rotate: false
+  xy: 428, 8
+  size: 135, 147
+  orig: 135, 147
+  offset: 0, 0
+  index: -1
+tx/sj1_027
+  rotate: false
+  xy: 289, 6
+  size: 137, 149
+  orig: 137, 149
+  offset: 0, 0
+  index: -1
+tx/sj1_028
+  rotate: false
+  xy: 146, 3
+  size: 141, 152
+  orig: 141, 152
+  offset: 0, 0
+  index: -1
+tx/sj1_029
+  rotate: false
+  xy: 2, 3
+  size: 142, 152
+  orig: 142, 152
+  offset: 0, 0
+  index: -1
+tx/sj2_022
+  rotate: false
+  xy: 727, 9
+  size: 23, 28
+  orig: 26, 32
+  offset: 2, 2
+  index: -1
+tx/sj2_023
+  rotate: false
+  xy: 908, 2
+  size: 36, 51
+  orig: 40, 55
+  offset: 2, 2
+  index: -1
+tx/sj2_024
+  rotate: true
+  xy: 1027, 17
+  size: 40, 58
+  orig: 44, 62
+  offset: 2, 2
+  index: -1
+tx/sj2_025
+  rotate: true
+  xy: 806, 4
+  size: 42, 56
+  orig: 45, 60
+  offset: 2, 2
+  index: -1
+tx/sj2_026
+  rotate: false
+  xy: 864, 2
+  size: 42, 51
+  orig: 45, 55
+  offset: 2, 2
+  index: -1
+tx/sj2_027
+  rotate: false
+  xy: 946, 7
+  size: 41, 46
+  orig: 44, 50
+  offset: 2, 2
+  index: -1
+tx/sj2_028
+  rotate: true
+  xy: 989, 16
+  size: 41, 36
+  orig: 45, 40
+  offset: 2, 2
+  index: -1
+tx/sj2_029
+  rotate: false
+  xy: 685, 4
+  size: 40, 33
+  orig: 44, 38
+  offset: 2, 2
+  index: -1
+tx/sj3_004
+  rotate: true
+  xy: 960, 59
+  size: 96, 95
+  orig: 97, 97
+  offset: 0, 1
+  index: -1
+tx/sj3_005
+  rotate: false
+  xy: 858, 55
+  size: 100, 100
+  orig: 101, 102
+  offset: 0, 1
+  index: -1

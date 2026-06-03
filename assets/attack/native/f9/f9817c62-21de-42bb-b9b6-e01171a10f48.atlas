@@ -1,0 +1,55 @@
+
+baoxiang.png
+size: 887,974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaizi_1
+  rotate: false
+  xy: 663, 881
+  size: 108, 91
+  orig: 108, 91
+  offset: 0, 0
+  index: -1
+gaizi_2
+  rotate: false
+  xy: 773, 858
+  size: 93, 49
+  orig: 93, 49
+  offset: 0, 0
+  index: -1
+guang_1
+  rotate: false
+  xy: 516, 348
+  size: 369, 245
+  orig: 379, 283
+  offset: 3, 36
+  index: -1
+guang_2
+  rotate: true
+  xy: 2, 595
+  size: 377, 659
+  orig: 393, 683
+  offset: 7, 5
+  index: -1
+guang_3
+  rotate: false
+  xy: 2, 80
+  size: 512, 513
+  orig: 526, 526
+  offset: 7, 7
+  index: -1
+shanguang
+  rotate: false
+  xy: 516, 2
+  size: 363, 344
+  orig: 363, 344
+  offset: 0, 0
+  index: -1
+xiangzi
+  rotate: false
+  xy: 773, 909
+  size: 102, 63
+  orig: 105, 64
+  offset: 2, 1
+  index: -1

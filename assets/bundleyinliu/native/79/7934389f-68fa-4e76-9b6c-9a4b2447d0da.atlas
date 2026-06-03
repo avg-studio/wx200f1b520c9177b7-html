@@ -1,0 +1,41 @@
+
+wanju_3.png
+size: 719,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_1
+  rotate: true
+  xy: 2, 18
+  size: 31, 256
+  orig: 31, 256
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 493, 2
+  size: 64, 224
+  orig: 64, 224
+  offset: 0, 0
+  index: -1
+3_3
+  rotate: true
+  xy: 260, 17
+  size: 32, 195
+  orig: 32, 195
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 493, 68
+  size: 341, 194
+  orig: 341, 194
+  offset: 0, 0
+  index: -1
+shazhi
+  rotate: false
+  xy: 2, 51
+  size: 489, 358
+  orig: 491, 360
+  offset: 1, 1
+  index: -1

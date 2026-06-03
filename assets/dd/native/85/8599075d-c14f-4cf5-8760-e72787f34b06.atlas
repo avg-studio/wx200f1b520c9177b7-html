@@ -1,0 +1,90 @@
+
+guai_1.png
+size: 388,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_arm_L
+  rotate: true
+  xy: 235, 597
+  size: 99, 149
+  orig: 99, 149
+  offset: 0, 0
+  index: -1
+2_arm_R
+  rotate: false
+  xy: 274, 454
+  size: 103, 142
+  orig: 103, 142
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 1, 577
+  size: 168, 439
+  orig: 168, 439
+  offset: 0, 0
+  index: -1
+2_elbow_L
+  rotate: false
+  xy: 274, 194
+  size: 105, 126
+  orig: 105, 126
+  offset: 0, 0
+  index: -1
+2_elbow_R
+  rotate: false
+  xy: 274, 321
+  size: 104, 132
+  orig: 104, 132
+  offset: 0, 0
+  index: -1
+2_eye
+  rotate: false
+  xy: 252, 1
+  size: 126, 67
+  orig: 126, 67
+  offset: 0, 0
+  index: -1
+2_hair_1
+  rotate: false
+  xy: 1, 306
+  size: 272, 270
+  orig: 272, 270
+  offset: 0, 0
+  index: -1
+2_hair_2
+  rotate: false
+  xy: 1, 68
+  size: 250, 237
+  orig: 250, 237
+  offset: 0, 0
+  index: -1
+2_hand_L
+  rotate: true
+  xy: 252, 69
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+2_hand_R
+  rotate: true
+  xy: 235, 697
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+2_head
+  rotate: false
+  xy: 235, 823
+  size: 125, 193
+  orig: 125, 193
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 170, 634
+  size: 382, 64
+  orig: 382, 64
+  offset: 0, 0
+  index: -1

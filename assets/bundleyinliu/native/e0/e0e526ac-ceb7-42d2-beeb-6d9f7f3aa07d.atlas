@@ -1,0 +1,41 @@
+
+wanju_5.png
+size: 737,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_1
+  rotate: true
+  xy: 493, 159
+  size: 212, 159
+  orig: 212, 159
+  offset: 0, 0
+  index: -1
+5_2
+  rotate: true
+  xy: 493, 2
+  size: 155, 209
+  orig: 155, 209
+  offset: 0, 0
+  index: -1
+5_3
+  rotate: false
+  xy: 654, 210
+  size: 71, 161
+  orig: 71, 161
+  offset: 0, 0
+  index: -1
+5_4
+  rotate: false
+  xy: 704, 20
+  size: 31, 188
+  orig: 31, 188
+  offset: 0, 0
+  index: -1
+shazhi
+  rotate: false
+  xy: 2, 13
+  size: 489, 358
+  orig: 491, 360
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,160 @@
+
+xul.png
+size: 989,989
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bh1_00
+  rotate: false
+  xy: 762, 226
+  size: 187, 193
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_01
+  rotate: false
+  xy: 770, 31
+  size: 187, 193
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_02
+  rotate: true
+  xy: 573, 2
+  size: 187, 195
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_03
+  rotate: false
+  xy: 573, 191
+  size: 187, 197
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_04
+  rotate: true
+  xy: 770, 800
+  size: 187, 198
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_05
+  rotate: true
+  xy: 770, 611
+  size: 187, 198
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_06
+  rotate: false
+  xy: 384, 389
+  size: 187, 198
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_07
+  rotate: false
+  xy: 573, 390
+  size: 187, 198
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_08
+  rotate: false
+  xy: 2, 189
+  size: 188, 198
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_09
+  rotate: false
+  xy: 194, 389
+  size: 188, 198
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_10
+  rotate: false
+  xy: 388, 789
+  size: 189, 198
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_11
+  rotate: false
+  xy: 2, 589
+  size: 191, 198
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_12
+  rotate: false
+  xy: 196, 789
+  size: 190, 198
+  orig: 200, 200
+  offset: 6, 1
+  index: -1
+bh1_13
+  rotate: false
+  xy: 2, 389
+  size: 190, 198
+  orig: 200, 200
+  offset: 6, 1
+  index: -1
+bh1_14
+  rotate: false
+  xy: 2, 789
+  size: 192, 198
+  orig: 200, 200
+  offset: 6, 1
+  index: -1
+bh1_15
+  rotate: false
+  xy: 195, 589
+  size: 190, 198
+  orig: 200, 200
+  offset: 6, 1
+  index: -1
+bh1_16
+  rotate: false
+  xy: 383, 190
+  size: 188, 197
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_17
+  rotate: false
+  xy: 578, 590
+  size: 188, 197
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_18
+  rotate: false
+  xy: 387, 590
+  size: 189, 197
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_19
+  rotate: false
+  xy: 579, 790
+  size: 189, 197
+  orig: 200, 200
+  offset: 7, 1
+  index: -1
+bh1_20
+  rotate: true
+  xy: 768, 421
+  size: 188, 197
+  orig: 200, 200
+  offset: 8, 1
+  index: -1
+bh1_21
+  rotate: false
+  xy: 192, 190
+  size: 189, 197
+  orig: 200, 200
+  offset: 7, 1
+  index: -1

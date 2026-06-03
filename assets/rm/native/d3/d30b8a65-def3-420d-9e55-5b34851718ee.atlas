@@ -1,0 +1,139 @@
+
+leidian.png
+size: 1797,655
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sd3_000
+  rotate: true
+  xy: 2, 536
+  size: 117, 512
+  orig: 128, 512
+  offset: 8, 0
+  index: -1
+sd3_001
+  rotate: true
+  xy: 2, 411
+  size: 123, 510
+  orig: 128, 512
+  offset: 2, 2
+  index: -1
+sd3_002
+  rotate: true
+  xy: 2, 151
+  size: 128, 511
+  orig: 128, 512
+  offset: 0, 1
+  index: -1
+sd3_003
+  rotate: true
+  xy: 871, 276
+  size: 128, 512
+  orig: 128, 512
+  offset: 0, 0
+  index: -1
+sd6_00
+  rotate: true
+  xy: 438, 7
+  size: 137, 434
+  orig: 137, 462
+  offset: 0, 9
+  index: -1
+sd6_01
+  rotate: true
+  xy: 954, 532
+  size: 121, 431
+  orig: 137, 462
+  offset: 0, 10
+  index: -1
+sd6_02
+  rotate: true
+  xy: 874, 2
+  size: 137, 434
+  orig: 137, 462
+  offset: 0, 8
+  index: -1
+sd6_03
+  rotate: true
+  xy: 2, 282
+  size: 127, 430
+  orig: 137, 462
+  offset: 0, 11
+  index: -1
+sd6_04
+  rotate: false
+  xy: 1525, 222
+  size: 137, 431
+  orig: 137, 462
+  offset: 0, 10
+  index: -1
+sd6_05
+  rotate: true
+  xy: 514, 410
+  size: 123, 431
+  orig: 137, 462
+  offset: 0, 11
+  index: -1
+sd6_06
+  rotate: true
+  xy: 1310, 2
+  size: 137, 434
+  orig: 137, 462
+  offset: 0, 8
+  index: -1
+sd6_07
+  rotate: true
+  xy: 516, 535
+  size: 118, 436
+  orig: 137, 462
+  offset: 0, 11
+  index: -1
+sd6_08
+  rotate: false
+  xy: 1664, 221
+  size: 131, 432
+  orig: 137, 462
+  offset: 0, 10
+  index: -1
+sd6_09
+  rotate: true
+  xy: 947, 406
+  size: 124, 433
+  orig: 137, 462
+  offset: 0, 11
+  index: -1
+sd6_10
+  rotate: false
+  xy: 1387, 224
+  size: 136, 429
+  orig: 137, 462
+  offset: 0, 10
+  index: -1
+sd6_11
+  rotate: true
+  xy: 2, 14
+  size: 135, 434
+  orig: 137, 462
+  offset: 0, 9
+  index: -1
+sd6_12
+  rotate: true
+  xy: 515, 146
+  size: 128, 434
+  orig: 137, 462
+  offset: 0, 9
+  index: -1
+sd6_13
+  rotate: true
+  xy: 434, 281
+  size: 127, 435
+  orig: 137, 462
+  offset: 0, 8
+  index: -1
+sd6_15
+  rotate: true
+  xy: 951, 141
+  size: 133, 434
+  orig: 137, 462
+  offset: 0, 10
+  index: -1

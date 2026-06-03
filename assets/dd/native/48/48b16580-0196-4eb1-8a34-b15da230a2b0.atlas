@@ -1,0 +1,90 @@
+
+guai_9.png
+size: 488,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_arm_L
+  rotate: false
+  xy: 367, 105
+  size: 70, 112
+  orig: 70, 112
+  offset: 0, 0
+  index: -1
+10_arm_R
+  rotate: false
+  xy: 367, 218
+  size: 73, 111
+  orig: 73, 111
+  offset: 0, 0
+  index: -1
+10_body
+  rotate: true
+  xy: 1, 66
+  size: 251, 365
+  orig: 251, 365
+  offset: 0, 0
+  index: -1
+10_elbow_L
+  rotate: true
+  xy: 307, 675
+  size: 150, 172
+  orig: 150, 172
+  offset: 0, 0
+  index: -1
+10_elbow_R
+  rotate: false
+  xy: 307, 826
+  size: 150, 191
+  orig: 150, 191
+  offset: 0, 0
+  index: -1
+10_fu
+  rotate: true
+  xy: 269, 330
+  size: 105, 164
+  orig: 105, 164
+  offset: 0, 0
+  index: -1
+10_head
+  rotate: false
+  xy: 269, 436
+  size: 200, 231
+  orig: 200, 231
+  offset: 0, 0
+  index: -1
+10_leg_L
+  rotate: false
+  xy: 434, 361
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+10_leg_R
+  rotate: false
+  xy: 384, 30
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+10_toujin_1
+  rotate: true
+  xy: 1, 318
+  size: 349, 267
+  orig: 349, 267
+  offset: 0, 0
+  index: -1
+10_toujin_2
+  rotate: true
+  xy: 1, 668
+  size: 349, 305
+  orig: 349, 305
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1, 1
+  size: 382, 64
+  orig: 382, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+touzi.png
+size: 818,578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+08
+  rotate: true
+  xy: 2, 255
+  size: 117, 132
+  orig: 119, 132
+  offset: 0, 0
+  index: -1
+08_1
+  rotate: true
+  xy: 136, 255
+  size: 117, 132
+  orig: 119, 132
+  offset: 0, 0
+  index: -1
+08_2
+  rotate: true
+  xy: 270, 255
+  size: 117, 132
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 2, 8
+  size: 126, 132
+  orig: 130, 133
+  offset: 2, 0
+  index: -1
+09_1
+  rotate: true
+  xy: 404, 255
+  size: 117, 132
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+09_2
+  rotate: true
+  xy: 538, 255
+  size: 117, 132
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 672, 255
+  size: 117, 132
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+10_1
+  rotate: true
+  xy: 2, 136
+  size: 117, 132
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+10_2
+  rotate: true
+  xy: 136, 136
+  size: 117, 132
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 136, 8
+  size: 126, 132
+  orig: 129, 133
+  offset: 1, 0
+  index: -1
+11_1
+  rotate: true
+  xy: 270, 136
+  size: 117, 132
+  orig: 119, 132
+  offset: 0, 0
+  index: -1
+11_2
+  rotate: true
+  xy: 672, 130
+  size: 123, 132
+  orig: 125, 133
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 270, 8
+  size: 126, 132
+  orig: 130, 133
+  offset: 2, 0
+  index: -1
+12_1
+  rotate: true
+  xy: 404, 136
+  size: 117, 132
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+12_2
+  rotate: true
+  xy: 538, 132
+  size: 121, 132
+  orig: 125, 133
+  offset: 2, 0
+  index: -1
+13
+  rotate: true
+  xy: 404, 8
+  size: 126, 132
+  orig: 130, 133
+  offset: 2, 0
+  index: -1
+13_1
+  rotate: true
+  xy: 538, 4
+  size: 126, 132
+  orig: 130, 133
+  offset: 2, 0
+  index: -1
+13_2
+  rotate: true
+  xy: 672, 2
+  size: 126, 132
+  orig: 130, 133
+  offset: 2, 0
+  index: -1
+a1
+  rotate: false
+  xy: 410, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a1_1
+  rotate: false
+  xy: 614, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a1_2
+  rotate: false
+  xy: 2, 374
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 2, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a2_1
+  rotate: false
+  xy: 104, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a2_2
+  rotate: false
+  xy: 206, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 308, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a3_1
+  rotate: false
+  xy: 512, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a3_2
+  rotate: false
+  xy: 716, 476
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 104, 374
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a4_1
+  rotate: false
+  xy: 206, 374
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a4_2
+  rotate: false
+  xy: 308, 374
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 410, 374
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a6_1
+  rotate: false
+  xy: 512, 374
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a6_2
+  rotate: false
+  xy: 614, 374
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

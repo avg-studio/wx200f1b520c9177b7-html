@@ -1,0 +1,48 @@
+
+yuhangyuan.png
+size: 323,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 136, 171
+  orig: 136, 171
+  offset: 0, 0
+  index: -1
+elbow_L
+  rotate: false
+  xy: 281, 31
+  size: 39, 43
+  orig: 41, 45
+  offset: 1, 1
+  index: -1
+elbow_R
+  rotate: false
+  xy: 282, 95
+  size: 39, 43
+  orig: 41, 45
+  offset: 1, 1
+  index: -1
+jizi
+  rotate: true
+  xy: 175, 19
+  size: 119, 58
+  orig: 121, 60
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: false
+  xy: 235, 13
+  size: 44, 61
+  orig: 46, 63
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: false
+  xy: 235, 76
+  size: 45, 62
+  orig: 47, 64
+  offset: 1, 1
+  index: -1

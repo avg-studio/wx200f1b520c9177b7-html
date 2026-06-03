@@ -1,0 +1,55 @@
+
+wanju_6.png
+size: 1123,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_1
+  rotate: true
+  xy: 493, 19
+  size: 341, 233
+  orig: 341, 233
+  offset: 0, 0
+  index: -1
+6_2
+  rotate: true
+  xy: 905, 15
+  size: 110, 216
+  orig: 110, 216
+  offset: 0, 0
+  index: -1
+6_3
+  rotate: true
+  xy: 728, 39
+  size: 64, 175
+  orig: 64, 175
+  offset: 0, 0
+  index: -1
+6_4
+  rotate: false
+  xy: 1060, 214
+  size: 59, 146
+  orig: 59, 146
+  offset: 0, 0
+  index: -1
+6_5
+  rotate: false
+  xy: 728, 105
+  size: 153, 255
+  orig: 153, 255
+  offset: 0, 0
+  index: -1
+6_6
+  rotate: false
+  xy: 883, 127
+  size: 175, 233
+  orig: 175, 233
+  offset: 0, 0
+  index: -1
+shazhi
+  rotate: false
+  xy: 2, 2
+  size: 489, 358
+  orig: 491, 360
+  offset: 1, 1
+  index: -1

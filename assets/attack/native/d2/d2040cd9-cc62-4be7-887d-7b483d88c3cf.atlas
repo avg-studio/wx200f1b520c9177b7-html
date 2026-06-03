@@ -1,0 +1,104 @@
+
+kuanggong.png
+size: 439,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kg_1
+  rotate: false
+  xy: 298, 2
+  size: 49, 48
+  orig: 52, 50
+  offset: 2, 1
+  index: -1
+kg_10
+  rotate: false
+  xy: 400, 5
+  size: 35, 18
+  orig: 37, 20
+  offset: 1, 1
+  index: -1
+kg_11
+  rotate: false
+  xy: 191, 21
+  size: 105, 26
+  orig: 108, 30
+  offset: 2, 2
+  index: -1
+kg_1_2
+  rotate: false
+  xy: 349, 2
+  size: 49, 48
+  orig: 50, 48
+  offset: 1, 0
+  index: -1
+kg_2
+  rotate: true
+  xy: 275, 52
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+kg_3
+  rotate: false
+  xy: 139, 5
+  size: 34, 12
+  orig: 36, 14
+  offset: 1, 1
+  index: -1
+kg_4
+  rotate: true
+  xy: 419, 57
+  size: 35, 18
+  orig: 37, 20
+  offset: 1, 1
+  index: -1
+kg_4_2
+  rotate: false
+  xy: 400, 25
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+kg_5
+  rotate: true
+  xy: 139, 19
+  size: 73, 50
+  orig: 75, 52
+  offset: 1, 1
+  index: -1
+kg_6
+  rotate: false
+  xy: 363, 54
+  size: 26, 38
+  orig: 28, 40
+  offset: 1, 1
+  index: -1
+kg_7
+  rotate: false
+  xy: 391, 54
+  size: 26, 38
+  orig: 28, 40
+  offset: 1, 1
+  index: -1
+kg_8
+  rotate: true
+  xy: 2, 2
+  size: 90, 135
+  orig: 90, 135
+  offset: 0, 0
+  index: -1
+kg_9
+  rotate: true
+  xy: 191, 49
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: true
+  xy: 175, 5
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+shengjitexiao.png
+size: 1095,754
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 6
+  size: 745, 746
+  orig: 874, 868
+  offset: 65, 60
+  index: -1
+jiantou_1
+  rotate: false
+  xy: 969, 425
+  size: 71, 118
+  orig: 79, 129
+  offset: 4, 7
+  index: -1
+jiantou_2
+  rotate: false
+  xy: 969, 425
+  size: 71, 118
+  orig: 79, 129
+  offset: 4, 7
+  index: -1
+jiantou_3
+  rotate: false
+  xy: 969, 545
+  size: 124, 207
+  orig: 136, 223
+  offset: 6, 10
+  index: -1
+jiantou_4
+  rotate: false
+  xy: 969, 545
+  size: 124, 207
+  orig: 136, 223
+  offset: 6, 10
+  index: -1
+jiantou_5
+  rotate: true
+  xy: 749, 2
+  size: 750, 218
+  orig: 752, 226
+  offset: 1, 4
+  index: -1

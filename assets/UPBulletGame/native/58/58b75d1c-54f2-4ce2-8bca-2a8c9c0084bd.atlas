@@ -1,0 +1,27 @@
+
+mao.png
+size: 157,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_mao_1
+  rotate: false
+  xy: 61, 6
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+1_mao_2
+  rotate: false
+  xy: 2, 2
+  size: 57, 57
+  orig: 59, 59
+  offset: 1, 1
+  index: -1
+1_mao_3
+  rotate: true
+  xy: 116, 3
+  size: 56, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1

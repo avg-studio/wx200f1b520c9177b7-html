@@ -1,0 +1,20 @@
+
+longtou.png
+size: 212,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head_1
+  rotate: false
+  xy: 2, 2
+  size: 151, 128
+  orig: 151, 128
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 155, 39
+  size: 91, 55
+  orig: 91, 84
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+ren.png
+size: 187,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren
+  rotate: false
+  xy: 2, 2
+  size: 183, 329
+  orig: 183, 329
+  offset: 0, 0
+  index: -1

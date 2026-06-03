@@ -1,0 +1,76 @@
+
+6_boos_tx.png
+size: 1146,1051
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_8
+  rotate: false
+  xy: 346, 402
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+baozha4/baozha4_00000
+  rotate: false
+  xy: 680, 19
+  size: 365, 286
+  orig: 512, 512
+  offset: 81, 114
+  index: -1
+baozha4/baozha4_00001
+  rotate: false
+  xy: 680, 19
+  size: 365, 286
+  orig: 512, 512
+  offset: 81, 114
+  index: -1
+baozha4/baozha4_00002
+  rotate: true
+  xy: 862, 307
+  size: 375, 281
+  orig: 512, 512
+  offset: 57, 106
+  index: -1
+baozha4/baozha4_00003
+  rotate: true
+  xy: 2, 184
+  size: 357, 342
+  orig: 512, 512
+  offset: 75, 103
+  index: -1
+baozha4/baozha4_00004
+  rotate: true
+  xy: 511, 684
+  size: 365, 350
+  orig: 512, 512
+  offset: 71, 95
+  index: -1
+baozha4/baozha4_00005
+  rotate: false
+  xy: 511, 333
+  size: 349, 349
+  orig: 512, 512
+  offset: 78, 95
+  index: -1
+baozha4/baozha4_00006
+  rotate: true
+  xy: 346, 2
+  size: 329, 332
+  orig: 512, 512
+  offset: 83, 103
+  index: -1
+baozha4/baozha4_00007
+  rotate: true
+  xy: 863, 720
+  size: 329, 281
+  orig: 512, 512
+  offset: 82, 127
+  index: -1
+huoquan2
+  rotate: true
+  xy: 2, 543
+  size: 506, 507
+  orig: 800, 800
+  offset: 153, 156
+  index: -1

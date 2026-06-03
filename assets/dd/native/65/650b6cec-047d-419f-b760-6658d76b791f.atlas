@@ -1,0 +1,20 @@
+
+wuya.png
+size: 363,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb1
+  rotate: true
+  xy: 2, 2
+  size: 58, 207
+  orig: 58, 207
+  offset: 0, 0
+  index: -1
+wuya
+  rotate: true
+  xy: 2, 62
+  size: 179, 359
+  orig: 179, 359
+  offset: 0, 0
+  index: -1

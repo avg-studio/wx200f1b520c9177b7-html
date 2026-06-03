@@ -1,0 +1,706 @@
+
+guai_5_tx.png
+size: 2000,1892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E406_Model_189
+  rotate: true
+  xy: 132, 1
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+E406_Model_190
+  rotate: false
+  xy: 332, 965
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+E406_Model_191
+  rotate: false
+  xy: 1, 1
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+E406_Model_1911
+  rotate: false
+  xy: 1074, 378
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+E406_Model_192
+  rotate: true
+  xy: 663, 1230
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_bya_Up_001
+  rotate: false
+  xy: 663, 1249
+  size: 280, 140
+  orig: 280, 140
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_bya_Up_002
+  rotate: false
+  xy: 944, 1249
+  size: 280, 140
+  orig: 280, 140
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_bya_Up_003
+  rotate: false
+  xy: 1225, 1249
+  size: 280, 140
+  orig: 280, 140
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_bya_Up_004
+  rotate: false
+  xy: 1506, 1249
+  size: 280, 140
+  orig: 280, 140
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_bya_Up_005
+  rotate: true
+  xy: 202, 618
+  size: 280, 140
+  orig: 280, 140
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_001
+  rotate: true
+  xy: 202, 142
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_002
+  rotate: false
+  xy: 946, 787
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_003
+  rotate: false
+  xy: 1171, 787
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_004
+  rotate: false
+  xy: 1396, 787
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_005
+  rotate: false
+  xy: 1621, 787
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_006
+  rotate: false
+  xy: 403, 517
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_007
+  rotate: false
+  xy: 628, 517
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_008
+  rotate: true
+  xy: 853, 522
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_009
+  rotate: false
+  xy: 1064, 576
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_010
+  rotate: false
+  xy: 1289, 576
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_011
+  rotate: false
+  xy: 1514, 576
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_012
+  rotate: false
+  xy: 1739, 576
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_013
+  rotate: false
+  xy: 413, 306
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_014
+  rotate: false
+  xy: 638, 306
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_015
+  rotate: true
+  xy: 863, 297
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_016
+  rotate: false
+  xy: 413, 95
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_017
+  rotate: false
+  xy: 638, 95
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_byb_Up_018
+  rotate: false
+  xy: 863, 86
+  size: 224, 210
+  orig: 224, 210
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zbqq_Up_001
+  rotate: false
+  xy: 1074, 392
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zbqq_Up_002
+  rotate: false
+  xy: 1251, 392
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zbqq_Up_003
+  rotate: false
+  xy: 1428, 392
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zbqq_Up_004
+  rotate: false
+  xy: 1605, 392
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zbqq_Up_005
+  rotate: false
+  xy: 1782, 392
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zisq_Up_000
+  rotate: false
+  xy: 1869, 1632
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zisz_Up_001
+  rotate: true
+  xy: 1787, 1279
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zisz_Up_002
+  rotate: false
+  xy: 374, 22
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zisz_Up_003
+  rotate: false
+  xy: 485, 22
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zisz_Up_004
+  rotate: false
+  xy: 596, 22
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zisz_Up_005
+  rotate: false
+  xy: 707, 22
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillNormal_zz_Up_000
+  rotate: false
+  xy: 1, 15
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_szh_Up_000
+  rotate: false
+  xy: 343, 695
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vbqq_Up_001
+  rotate: false
+  xy: 1088, 208
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vbqq_Up_002
+  rotate: false
+  xy: 1265, 208
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vbqq_Up_003
+  rotate: false
+  xy: 1442, 208
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vbqq_Up_004
+  rotate: false
+  xy: 1619, 208
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vbqq_Up_005
+  rotate: false
+  xy: 1796, 208
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vsq_Up_000
+  rotate: false
+  xy: 1869, 1503
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vsz_Up_001
+  rotate: true
+  xy: 1846, 787
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vsz_Up_002
+  rotate: true
+  xy: 1919, 787
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vsz_Up_003
+  rotate: false
+  xy: 818, 13
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vsz_Up_004
+  rotate: false
+  xy: 929, 13
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vsz_Up_005
+  rotate: false
+  xy: 1040, 13
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vzqq_Up_001
+  rotate: false
+  xy: 1, 1561
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vzqq_Up_002
+  rotate: false
+  xy: 1, 1230
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vzqq_Up_003
+  rotate: false
+  xy: 332, 1561
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vzqq_Up_004
+  rotate: false
+  xy: 1, 899
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_vzqq_Up_005
+  rotate: false
+  xy: 332, 1230
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_001
+  rotate: false
+  xy: 663, 1641
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_002
+  rotate: false
+  xy: 1, 648
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_003
+  rotate: false
+  xy: 332, 979
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_004
+  rotate: false
+  xy: 663, 1390
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_005
+  rotate: false
+  xy: 864, 1641
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_006
+  rotate: false
+  xy: 1, 397
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_007
+  rotate: false
+  xy: 864, 1390
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_008
+  rotate: false
+  xy: 1065, 1641
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_009
+  rotate: false
+  xy: 1, 146
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_010
+  rotate: false
+  xy: 1065, 1390
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_011
+  rotate: false
+  xy: 1266, 1641
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_012
+  rotate: false
+  xy: 1266, 1390
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_013
+  rotate: false
+  xy: 1467, 1641
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_014
+  rotate: false
+  xy: 1467, 1390
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_015
+  rotate: false
+  xy: 1668, 1641
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_016
+  rotate: false
+  xy: 1668, 1390
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_017
+  rotate: false
+  xy: 202, 367
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_018
+  rotate: false
+  xy: 533, 979
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_019
+  rotate: false
+  xy: 734, 998
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_020
+  rotate: false
+  xy: 935, 998
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_021
+  rotate: false
+  xy: 1136, 998
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_022
+  rotate: false
+  xy: 1337, 998
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_023
+  rotate: false
+  xy: 1538, 998
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_024
+  rotate: false
+  xy: 343, 728
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_025
+  rotate: false
+  xy: 544, 728
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_yw_Up_026
+  rotate: false
+  xy: 745, 747
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_001
+  rotate: false
+  xy: 1088, 87
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_002
+  rotate: false
+  xy: 1209, 87
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_003
+  rotate: false
+  xy: 1330, 87
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_004
+  rotate: false
+  xy: 1451, 87
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_005
+  rotate: false
+  xy: 1572, 87
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_006
+  rotate: false
+  xy: 1693, 87
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_007
+  rotate: false
+  xy: 1814, 87
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_008
+  rotate: false
+  xy: 1869, 1382
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_009
+  rotate: false
+  xy: 1860, 1261
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_010
+  rotate: false
+  xy: 132, 21
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_011
+  rotate: false
+  xy: 253, 21
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_012
+  rotate: false
+  xy: 1739, 1128
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_013
+  rotate: false
+  xy: 1739, 1007
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_014
+  rotate: false
+  xy: 1860, 1140
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_015
+  rotate: false
+  xy: 1860, 1019
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_ywz_Up_016
+  rotate: false
+  xy: 1860, 898
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+E406_Special_SkillProud_zz_Up_000
+  rotate: false
+  xy: 1869, 1761
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1

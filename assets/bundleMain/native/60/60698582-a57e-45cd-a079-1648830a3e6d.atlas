@@ -1,0 +1,90 @@
+
+fz.png
+size: 1957,887
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 252, 43
+  size: 219, 219
+  orig: 219, 219
+  offset: 0, 0
+  index: -1
+01wfg
+  rotate: false
+  xy: 2, 14
+  size: 248, 248
+  orig: 249, 249
+  offset: 0, 1
+  index: -1
+02
+  rotate: false
+  xy: 1381, 158
+  size: 286, 286
+  orig: 286, 286
+  offset: 0, 0
+  index: -1
+02waix
+  rotate: false
+  xy: 1040, 81
+  size: 339, 339
+  orig: 341, 341
+  offset: 1, 1
+  index: -1
+03
+  rotate: false
+  xy: 625, 7
+  size: 413, 413
+  orig: 413, 413
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 1669, 171
+  size: 286, 286
+  orig: 286, 286
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 1523, 459
+  size: 426, 426
+  orig: 426, 426
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1381, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+fz2
+  rotate: false
+  xy: 1089, 446
+  size: 432, 439
+  orig: 445, 461
+  offset: 0, 9
+  index: -1
+lizi
+  rotate: true
+  xy: 1523, 446
+  size: 11, 18
+  orig: 11, 20
+  offset: 0, 1
+  index: -1
+waiq
+  rotate: false
+  xy: 625, 422
+  size: 462, 463
+  orig: 466, 466
+  offset: 0, 3
+  index: -1
+yuan
+  rotate: false
+  xy: 2, 264
+  size: 621, 621
+  orig: 625, 625
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,76 @@
+
+leigong.png
+size: 721,1010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_shandian_0000
+  rotate: false
+  xy: 506, 484
+  size: 65, 145
+  orig: 490, 870
+  offset: 198, 504
+  index: -1
+b_shandian_0001
+  rotate: true
+  xy: 2, 741
+  size: 267, 502
+  orig: 490, 870
+  offset: 121, 165
+  index: -1
+b_shandian_0002
+  rotate: false
+  xy: 363, 11
+  size: 300, 192
+  orig: 490, 870
+  offset: 86, 158
+  index: -1
+b_shandian_0003
+  rotate: true
+  xy: 2, 127
+  size: 317, 359
+  orig: 490, 870
+  offset: 86, 158
+  index: -1
+b_shandian_0004
+  rotate: true
+  xy: 2, 446
+  size: 293, 382
+  orig: 490, 870
+  offset: 87, 158
+  index: -1
+b_shandian_0005
+  rotate: false
+  xy: 386, 205
+  size: 333, 251
+  orig: 490, 870
+  offset: 83, 157
+  index: -1
+b_shandian_0006
+  rotate: true
+  xy: 506, 714
+  size: 294, 211
+  orig: 490, 870
+  offset: 87, 159
+  index: -1
+b_shandian_0007
+  rotate: false
+  xy: 2, 2
+  size: 293, 123
+  orig: 490, 870
+  offset: 82, 159
+  index: -1
+b_shandian_0008
+  rotate: true
+  xy: 386, 458
+  size: 281, 118
+  orig: 490, 870
+  offset: 87, 160
+  index: -1
+b_shandian_0009
+  rotate: false
+  xy: 506, 631
+  size: 196, 81
+  orig: 490, 870
+  offset: 139, 185
+  index: -1

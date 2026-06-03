@@ -1,0 +1,461 @@
+
+guai_6_tx.png
+size: 2036,1724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E702_Special_SkillNormal_a_Up_001
+  rotate: true
+  xy: 1, 1414
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_002
+  rotate: true
+  xy: 1, 1105
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_003
+  rotate: true
+  xy: 1, 796
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_004
+  rotate: true
+  xy: 1, 487
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_005
+  rotate: true
+  xy: 1, 178
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_006
+  rotate: true
+  xy: 280, 1414
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_007
+  rotate: true
+  xy: 280, 1105
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_008
+  rotate: true
+  xy: 280, 796
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_009
+  rotate: true
+  xy: 280, 487
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_010
+  rotate: true
+  xy: 280, 178
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_011
+  rotate: false
+  xy: 559, 1444
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_012
+  rotate: true
+  xy: 559, 1135
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_013
+  rotate: true
+  xy: 559, 826
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_a_Up_014
+  rotate: true
+  xy: 559, 517
+  size: 308, 278
+  orig: 308, 278
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_001
+  rotate: false
+  xy: 1, 20
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_002
+  rotate: false
+  xy: 159, 20
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_003
+  rotate: false
+  xy: 317, 20
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_004
+  rotate: false
+  xy: 475, 20
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_005
+  rotate: false
+  xy: 1518, 656
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_006
+  rotate: false
+  xy: 1644, 1016
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_007
+  rotate: false
+  xy: 1694, 1376
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_008
+  rotate: false
+  xy: 1694, 1218
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_009
+  rotate: false
+  xy: 1644, 858
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_010
+  rotate: false
+  xy: 1654, 498
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_011
+  rotate: false
+  xy: 1676, 700
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_012
+  rotate: false
+  xy: 1802, 1060
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_013
+  rotate: false
+  xy: 1802, 902
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_014
+  rotate: false
+  xy: 1852, 1325
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_015
+  rotate: false
+  xy: 1654, 340
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_016
+  rotate: false
+  xy: 1713, 102
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_017
+  rotate: false
+  xy: 1812, 542
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_018
+  rotate: false
+  xy: 1834, 744
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_019
+  rotate: false
+  xy: 1812, 384
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_020
+  rotate: false
+  xy: 1871, 226
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_b_Up_021
+  rotate: false
+  xy: 1873, 68
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_001
+  rotate: false
+  xy: 633, 8
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_002
+  rotate: false
+  xy: 993, 8
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_003
+  rotate: false
+  xy: 1188, 1534
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_004
+  rotate: true
+  xy: 1077, 804
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_005
+  rotate: false
+  xy: 1158, 615
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_006
+  rotate: true
+  xy: 1266, 804
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_007
+  rotate: true
+  xy: 1316, 1174
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_008
+  rotate: true
+  xy: 1455, 814
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_009
+  rotate: true
+  xy: 1505, 1174
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_010
+  rotate: false
+  xy: 1548, 1534
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_011
+  rotate: true
+  xy: 1276, 255
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_012
+  rotate: false
+  xy: 1353, 66
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_c_Up_013
+  rotate: true
+  xy: 1465, 255
+  size: 359, 188
+  orig: 359, 188
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_d_Up_001
+  rotate: true
+  xy: 559, 197
+  size: 319, 238
+  orig: 319, 238
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_d_Up_002
+  rotate: true
+  xy: 798, 197
+  size: 319, 238
+  orig: 319, 238
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_d_Up_003
+  rotate: true
+  xy: 838, 1124
+  size: 319, 238
+  orig: 319, 238
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_d_Up_004
+  rotate: false
+  xy: 868, 1484
+  size: 319, 238
+  orig: 319, 238
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_d_Up_005
+  rotate: true
+  xy: 838, 804
+  size: 319, 238
+  orig: 319, 238
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_d_Up_006
+  rotate: false
+  xy: 838, 565
+  size: 319, 238
+  orig: 319, 238
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_d_Up_007
+  rotate: true
+  xy: 1037, 245
+  size: 319, 238
+  orig: 319, 238
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_d_Up_008
+  rotate: true
+  xy: 1077, 1164
+  size: 319, 238
+  orig: 319, 238
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_f_Up_001
+  rotate: false
+  xy: 1908, 1643
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_f_Up_002
+  rotate: false
+  xy: 1908, 1563
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_f_Up_003
+  rotate: false
+  xy: 1908, 1483
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_f_Up_004
+  rotate: true
+  xy: 1852, 1224
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_f_Up_005
+  rotate: false
+  xy: 1932, 1245
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_f_Up_006
+  rotate: false
+  xy: 1654, 260
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_f_Up_007
+  rotate: false
+  xy: 1755, 260
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_f_Up_008
+  rotate: true
+  xy: 1713, 1
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+E702_Special_SkillNormal_f_Up_009
+  rotate: true
+  xy: 1793, 1
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1

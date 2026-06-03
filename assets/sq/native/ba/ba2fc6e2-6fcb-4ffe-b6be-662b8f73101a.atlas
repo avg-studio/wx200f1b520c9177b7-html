@@ -1,0 +1,139 @@
+
+shengjiang.png
+size: 727,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuishui_000
+  rotate: false
+  xy: 539, 73
+  size: 13, 15
+  orig: 128, 128
+  offset: 59, 59
+  index: -1
+shuishui_001
+  rotate: false
+  xy: 685, 5
+  size: 27, 27
+  orig: 128, 128
+  offset: 53, 53
+  index: -1
+shuishui_002
+  rotate: false
+  xy: 685, 34
+  size: 40, 42
+  orig: 128, 128
+  offset: 46, 45
+  index: -1
+shuishui_003
+  rotate: true
+  xy: 539, 9
+  size: 50, 52
+  orig: 128, 128
+  offset: 41, 40
+  index: -1
+shuishui_004
+  rotate: false
+  xy: 555, 61
+  size: 55, 58
+  orig: 128, 128
+  offset: 39, 37
+  index: -1
+shuishui_005
+  rotate: false
+  xy: 555, 121
+  size: 61, 63
+  orig: 128, 128
+  offset: 38, 35
+  index: -1
+shuishui_006
+  rotate: true
+  xy: 612, 7
+  size: 69, 71
+  orig: 128, 128
+  offset: 35, 30
+  index: -1
+shuishui_007
+  rotate: false
+  xy: 460, 12
+  size: 77, 76
+  orig: 128, 128
+  offset: 32, 27
+  index: -1
+shuishui_008
+  rotate: true
+  xy: 374, 6
+  size: 85, 84
+  orig: 128, 128
+  offset: 29, 22
+  index: -1
+shuishui_009
+  rotate: true
+  xy: 194, 3
+  size: 88, 89
+  orig: 128, 128
+  offset: 29, 18
+  index: -1
+shuishui_010
+  rotate: false
+  xy: 618, 78
+  size: 90, 92
+  orig: 128, 128
+  offset: 30, 16
+  index: -1
+shuishui_011
+  rotate: true
+  xy: 98, 3
+  size: 88, 94
+  orig: 128, 128
+  offset: 34, 15
+  index: -1
+shuishui_012
+  rotate: true
+  xy: 2, 2
+  size: 89, 94
+  orig: 128, 128
+  offset: 35, 15
+  index: -1
+shuishui_013
+  rotate: false
+  xy: 623, 172
+  size: 91, 94
+  orig: 128, 128
+  offset: 35, 15
+  index: -1
+shuishui_014
+  rotate: false
+  xy: 462, 90
+  size: 91, 94
+  orig: 128, 128
+  offset: 35, 15
+  index: -1
+shuishui_015
+  rotate: false
+  xy: 285, 6
+  size: 87, 85
+  orig: 128, 128
+  offset: 35, 17
+  index: -1
+yizi
+  rotate: true
+  xy: 2, 93
+  size: 173, 228
+  orig: 173, 228
+  offset: 0, 0
+  index: -1
+yizi2
+  rotate: true
+  xy: 232, 93
+  size: 173, 228
+  orig: 173, 228
+  offset: 0, 0
+  index: -1
+yizi_yy
+  rotate: false
+  xy: 462, 186
+  size: 159, 80
+  orig: 159, 80
+  offset: 0, 0
+  index: -1

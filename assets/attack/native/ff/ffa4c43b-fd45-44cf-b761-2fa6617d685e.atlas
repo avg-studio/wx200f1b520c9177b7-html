@@ -1,0 +1,146 @@
+
+shetou.png
+size: 1957,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 2, 24
+  size: 318, 271
+  orig: 321, 273
+  offset: 1, 1
+  index: -1
+bing_1
+  rotate: true
+  xy: 1705, 161
+  size: 134, 135
+  orig: 138, 138
+  offset: 2, 2
+  index: -1
+bing_2
+  rotate: false
+  xy: 1542, 169
+  size: 161, 126
+  orig: 163, 128
+  offset: 1, 1
+  index: -1
+bing_3
+  rotate: false
+  xy: 1837, 78
+  size: 106, 70
+  orig: 108, 72
+  offset: 1, 1
+  index: -1
+bing_4
+  rotate: false
+  xy: 1837, 10
+  size: 105, 66
+  orig: 108, 68
+  offset: 1, 1
+  index: -1
+bing_5
+  rotate: true
+  xy: 1701, 52
+  size: 107, 134
+  orig: 109, 136
+  offset: 1, 1
+  index: -1
+bing_6
+  rotate: false
+  xy: 1467, 11
+  size: 109, 135
+  orig: 111, 138
+  offset: 1, 2
+  index: -1
+bing_7
+  rotate: false
+  xy: 1578, 36
+  size: 121, 131
+  orig: 124, 135
+  offset: 2, 1
+  index: -1
+bing_8
+  rotate: false
+  xy: 625, 34
+  size: 173, 110
+  orig: 176, 112
+  offset: 1, 1
+  index: -1
+bing_9
+  rotate: true
+  xy: 1842, 150
+  size: 145, 113
+  orig: 147, 115
+  offset: 1, 1
+  index: -1
+dian_00000
+  rotate: true
+  xy: 1299, 2
+  size: 144, 166
+  orig: 230, 230
+  offset: 30, 36
+  index: -1
+dian_00002
+  rotate: true
+  xy: 975, 2
+  size: 150, 160
+  orig: 230, 230
+  offset: 20, 36
+  index: -1
+dian_00004
+  rotate: false
+  xy: 625, 146
+  size: 185, 149
+  orig: 230, 230
+  offset: 16, 42
+  index: -1
+dian_00006
+  rotate: false
+  xy: 812, 154
+  size: 186, 141
+  orig: 230, 230
+  offset: 16, 43
+  index: -1
+dian_00008
+  rotate: false
+  xy: 1000, 166
+  size: 176, 129
+  orig: 230, 230
+  offset: 26, 46
+  index: -1
+dian_00010
+  rotate: false
+  xy: 1178, 152
+  size: 180, 143
+  orig: 230, 230
+  offset: 26, 52
+  index: -1
+dian_00013
+  rotate: false
+  xy: 1360, 148
+  size: 180, 147
+  orig: 230, 230
+  offset: 19, 46
+  index: -1
+dian_00015
+  rotate: false
+  xy: 1137, 2
+  size: 160, 148
+  orig: 230, 230
+  offset: 25, 44
+  index: -1
+dian_00017
+  rotate: true
+  xy: 812, 2
+  size: 150, 161
+  orig: 230, 230
+  offset: 30, 30
+  index: -1
+head
+  rotate: false
+  xy: 322, 30
+  size: 301, 265
+  orig: 301, 265
+  offset: 0, 0
+  index: -1

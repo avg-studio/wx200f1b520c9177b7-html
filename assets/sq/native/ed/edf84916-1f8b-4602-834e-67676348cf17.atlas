@@ -1,0 +1,27 @@
+
+dunpai.png
+size: 179,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun_1
+  rotate: true
+  xy: 127, 62
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dun_2
+  rotate: false
+  xy: 127, 31
+  size: 42, 29
+  orig: 43, 29
+  offset: 1, 0
+  index: -1
+dun_shui
+  rotate: false
+  xy: 2, 2
+  size: 123, 113
+  orig: 123, 113
+  offset: 0, 0
+  index: -1

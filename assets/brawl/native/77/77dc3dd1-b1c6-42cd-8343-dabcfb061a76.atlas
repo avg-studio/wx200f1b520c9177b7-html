@@ -1,0 +1,111 @@
+
+nuqi.png
+size: 751,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx4/hero_1042_ZZyanwukuosan_000
+  rotate: false
+  xy: 164, 2
+  size: 160, 256
+  orig: 175, 256
+  offset: 6, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_010
+  rotate: false
+  xy: 164, 2
+  size: 160, 256
+  orig: 175, 256
+  offset: 6, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_020
+  rotate: false
+  xy: 164, 2
+  size: 160, 256
+  orig: 175, 256
+  offset: 6, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_002
+  rotate: false
+  xy: 326, 2
+  size: 160, 256
+  orig: 175, 256
+  offset: 6, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_012
+  rotate: false
+  xy: 326, 2
+  size: 160, 256
+  orig: 175, 256
+  offset: 6, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_022
+  rotate: false
+  xy: 326, 2
+  size: 160, 256
+  orig: 175, 256
+  offset: 6, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_004
+  rotate: false
+  xy: 620, 2
+  size: 129, 256
+  orig: 175, 256
+  offset: 37, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_014
+  rotate: false
+  xy: 620, 2
+  size: 129, 256
+  orig: 175, 256
+  offset: 37, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_024
+  rotate: false
+  xy: 620, 2
+  size: 129, 256
+  orig: 175, 256
+  offset: 37, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_006
+  rotate: false
+  xy: 488, 2
+  size: 130, 256
+  orig: 175, 256
+  offset: 37, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_016
+  rotate: false
+  xy: 488, 2
+  size: 130, 256
+  orig: 175, 256
+  offset: 37, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_026
+  rotate: false
+  xy: 488, 2
+  size: 130, 256
+  orig: 175, 256
+  offset: 37, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_028
+  rotate: false
+  xy: 2, 2
+  size: 160, 256
+  orig: 175, 256
+  offset: 6, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_008
+  rotate: false
+  xy: 2, 2
+  size: 160, 256
+  orig: 175, 256
+  offset: 6, 0
+  index: -1
+tx4/hero_1042_ZZyanwukuosan_018
+  rotate: false
+  xy: 2, 2
+  size: 160, 256
+  orig: 175, 256
+  offset: 6, 0
+  index: -1

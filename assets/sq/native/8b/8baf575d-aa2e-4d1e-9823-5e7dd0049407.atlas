@@ -1,0 +1,167 @@
+
+qiang.png
+size: 161,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuai_1
+  rotate: false
+  xy: 86, 428
+  size: 52, 51
+  orig: 54, 53
+  offset: 1, 1
+  index: -1
+kuai_10
+  rotate: true
+  xy: 102, 868
+  size: 71, 57
+  orig: 73, 59
+  offset: 1, 1
+  index: -1
+kuai_11
+  rotate: true
+  xy: 121, 199
+  size: 59, 29
+  orig: 62, 31
+  offset: 2, 1
+  index: -1
+kuai_12
+  rotate: false
+  xy: 2, 2
+  size: 117, 63
+  orig: 123, 65
+  offset: 1, 1
+  index: -1
+kuai_13
+  rotate: true
+  xy: 102, 701
+  size: 72, 53
+  orig: 74, 55
+  offset: 1, 1
+  index: -1
+kuai_14
+  rotate: true
+  xy: 102, 941
+  size: 85, 53
+  orig: 94, 55
+  offset: 1, 1
+  index: -1
+kuai_15
+  rotate: true
+  xy: 121, 37
+  size: 32, 35
+  orig: 35, 38
+  offset: 2, 1
+  index: -1
+kuai_16
+  rotate: false
+  xy: 133, 285
+  size: 22, 21
+  orig: 24, 23
+  offset: 1, 1
+  index: -1
+kuai_17
+  rotate: true
+  xy: 104, 71
+  size: 46, 28
+  orig: 48, 30
+  offset: 1, 1
+  index: -1
+kuai_18
+  rotate: false
+  xy: 104, 154
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+kuai_19
+  rotate: false
+  xy: 86, 385
+  size: 64, 41
+  orig: 66, 43
+  offset: 1, 1
+  index: -1
+kuai_2
+  rotate: false
+  xy: 102, 633
+  size: 45, 66
+  orig: 47, 68
+  offset: 1, 1
+  index: -1
+kuai_20
+  rotate: true
+  xy: 86, 481
+  size: 62, 66
+  orig: 64, 68
+  offset: 1, 1
+  index: -1
+kuai_3
+  rotate: false
+  xy: 86, 260
+  size: 45, 46
+  orig: 47, 48
+  offset: 1, 1
+  index: -1
+kuai_4
+  rotate: false
+  xy: 86, 348
+  size: 60, 35
+  orig: 63, 37
+  offset: 1, 1
+  index: -1
+kuai_5
+  rotate: false
+  xy: 86, 308
+  size: 55, 38
+  orig: 58, 40
+  offset: 2, 1
+  index: -1
+kuai_6
+  rotate: true
+  xy: 102, 775
+  size: 91, 43
+  orig: 101, 45
+  offset: 1, 1
+  index: -1
+kuai_7
+  rotate: true
+  xy: 86, 545
+  size: 86, 61
+  orig: 89, 66
+  offset: 1, 2
+  index: -1
+kuai_8
+  rotate: false
+  xy: 104, 119
+  size: 50, 33
+  orig: 62, 36
+  offset: 1, 1
+  index: -1
+kuai_9
+  rotate: true
+  xy: 140, 452
+  size: 27, 17
+  orig: 29, 19
+  offset: 1, 1
+  index: -1
+lieheng2
+  rotate: true
+  xy: 2, 250
+  size: 383, 82
+  orig: 383, 92
+  offset: 0, 10
+  index: -1
+yan
+  rotate: true
+  xy: 2, 67
+  size: 181, 100
+  orig: 198, 106
+  offset: 12, 2
+  index: -1
+zhangai
+  rotate: true
+  xy: 2, 635
+  size: 391, 98
+  orig: 393, 100
+  offset: 1, 1
+  index: -1

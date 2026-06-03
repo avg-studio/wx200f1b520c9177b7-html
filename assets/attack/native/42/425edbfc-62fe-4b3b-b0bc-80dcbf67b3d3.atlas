@@ -1,0 +1,90 @@
+
+yu.png
+size: 1086,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 462, 38
+  size: 91, 287
+  orig: 91, 287
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 555, 70
+  size: 90, 255
+  orig: 90, 255
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 323, 368
+  orig: 323, 368
+  offset: 0, 0
+  index: -1
+daoguang_1
+  rotate: false
+  xy: 900, 16
+  size: 155, 130
+  orig: 158, 132
+  offset: 1, 1
+  index: -1
+daoguang_2
+  rotate: false
+  xy: 555, 3
+  size: 134, 65
+  orig: 136, 66
+  offset: 1, 0
+  index: -1
+daoguang_3
+  rotate: false
+  xy: 758, 2
+  size: 140, 142
+  orig: 142, 144
+  offset: 2, 1
+  index: -1
+daoguang_4
+  rotate: true
+  xy: 739, 146
+  size: 179, 135
+  orig: 181, 148
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: false
+  xy: 647, 126
+  size: 90, 199
+  orig: 90, 199
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 876, 148
+  size: 101, 177
+  orig: 101, 177
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 691, 14
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+tool
+  rotate: false
+  xy: 979, 176
+  size: 105, 149
+  orig: 105, 149
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 372, 4
+  size: 321, 88
+  orig: 321, 88
+  offset: 0, 0
+  index: -1

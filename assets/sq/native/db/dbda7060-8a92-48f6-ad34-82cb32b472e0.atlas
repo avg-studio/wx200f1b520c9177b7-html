@@ -1,0 +1,20 @@
+
+sdx.png
+size: 2006,567
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdx3_00
+  rotate: false
+  xy: 2, 2
+  size: 1000, 563
+  orig: 1000, 563
+  offset: 0, 0
+  index: -1
+sdx3_01
+  rotate: false
+  xy: 1004, 2
+  size: 1000, 563
+  orig: 1000, 563
+  offset: 0, 0
+  index: -1

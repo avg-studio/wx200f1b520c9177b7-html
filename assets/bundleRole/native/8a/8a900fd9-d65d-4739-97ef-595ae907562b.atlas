@@ -1,0 +1,34 @@
+
+guixinniang.png
+size: 1395,1244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nver_1_body
+  rotate: false
+  xy: 2, 2
+  size: 669, 1240
+  orig: 672, 1245
+  offset: 0, 3
+  index: -1
+nver_1_mouth
+  rotate: true
+  xy: 1328, 1065
+  size: 85, 61
+  orig: 90, 64
+  offset: 3, 2
+  index: -1
+nver_2_body
+  rotate: false
+  xy: 673, 3
+  size: 653, 1239
+  orig: 658, 1245
+  offset: 2, 3
+  index: -1
+nver_2_mouth
+  rotate: true
+  xy: 1328, 1152
+  size: 90, 65
+  orig: 94, 70
+  offset: 1, 2
+  index: -1

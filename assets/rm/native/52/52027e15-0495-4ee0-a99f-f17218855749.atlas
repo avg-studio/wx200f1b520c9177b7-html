@@ -1,0 +1,27 @@
+
+mengguilaixi.png
+size: 1486,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiao_1
+  rotate: true
+  xy: 1006, 23
+  size: 224, 323
+  orig: 224, 323
+  offset: 0, 0
+  index: -1
+tiao_2
+  rotate: false
+  xy: 1006, 249
+  size: 478, 158
+  orig: 478, 158
+  offset: 0, 0
+  index: -1
+tiao_3
+  rotate: false
+  xy: 2, 2
+  size: 1002, 405
+  orig: 1002, 409
+  offset: 0, 1
+  index: -1

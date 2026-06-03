@@ -1,0 +1,104 @@
+
+guai_6.png
+size: 420,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_arm_L
+  rotate: false
+  xy: 251, 437
+  size: 165, 263
+  orig: 165, 263
+  offset: 0, 0
+  index: -1
+7_arm_R
+  rotate: false
+  xy: 66, 119
+  size: 162, 273
+  orig: 162, 273
+  offset: 0, 0
+  index: -1
+7_body
+  rotate: false
+  xy: 1, 393
+  size: 249, 307
+  orig: 249, 307
+  offset: 0, 0
+  index: -1
+7_ear_L
+  rotate: true
+  xy: 288, 709
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+7_ear_R
+  rotate: true
+  xy: 240, 55
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+7_eye
+  rotate: true
+  xy: 288, 826
+  size: 226, 114
+  orig: 226, 114
+  offset: 0, 0
+  index: -1
+7_head
+  rotate: false
+  xy: 1, 701
+  size: 286, 351
+  orig: 286, 351
+  offset: 0, 0
+  index: -1
+7_leg_L
+  rotate: true
+  xy: 251, 325
+  size: 111, 152
+  orig: 111, 152
+  offset: 0, 0
+  index: -1
+7_leg_R
+  rotate: false
+  xy: 229, 172
+  size: 111, 152
+  orig: 111, 152
+  offset: 0, 0
+  index: -1
+7_lingdang
+  rotate: true
+  xy: 240, 5
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+7_lingdang2
+  rotate: false
+  xy: 341, 255
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+7_lingdang3
+  rotate: false
+  xy: 341, 193
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+7_mouth
+  rotate: false
+  xy: 66, 1
+  size: 173, 117
+  orig: 173, 117
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 1, 10
+  size: 382, 64
+  orig: 382, 64
+  offset: 0, 0
+  index: -1

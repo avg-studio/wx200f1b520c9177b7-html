@@ -1,0 +1,76 @@
+
+guai_10_tx.png
+size: 1700,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_mz-glow
+  rotate: false
+  xy: 1433, 218
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+effect/atk_mz_00
+  rotate: false
+  xy: 1, 12
+  size: 185, 158
+  orig: 185, 158
+  offset: 0, 0
+  index: -1
+effect/atk_mz_01
+  rotate: false
+  xy: 733, 4
+  size: 244, 435
+  orig: 244, 435
+  offset: 0, 0
+  index: -1
+effect/atk_mz_02
+  rotate: true
+  xy: 1, 171
+  size: 268, 485
+  orig: 268, 485
+  offset: 0, 0
+  index: -1
+effect/atk_mz_03
+  rotate: false
+  xy: 487, 1
+  size: 245, 438
+  orig: 245, 438
+  offset: 0, 0
+  index: -1
+effect/atk_mz_04
+  rotate: false
+  xy: 978, 11
+  size: 236, 428
+  orig: 236, 428
+  offset: 0, 0
+  index: -1
+effect/atk_mz_05
+  rotate: false
+  xy: 1215, 34
+  size: 217, 405
+  orig: 217, 405
+  offset: 0, 0
+  index: -1
+effect/atk_mz_07
+  rotate: true
+  xy: 1433, 39
+  size: 178, 265
+  orig: 178, 265
+  offset: 0, 0
+  index: -1
+effect/atk_mz_09
+  rotate: true
+  xy: 187, 32
+  size: 138, 183
+  orig: 138, 183
+  offset: 0, 0
+  index: -1
+effect/atk_mz_11
+  rotate: true
+  xy: 371, 98
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1

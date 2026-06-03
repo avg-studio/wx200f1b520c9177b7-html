@@ -1,0 +1,237 @@
+
+juese_5.png
+size: 946,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: true
+  xy: 48, 3
+  size: 68, 46
+  orig: 106, 63
+  offset: 20, 7
+  index: -1
+0002
+  rotate: false
+  xy: 702, 484
+  size: 70, 45
+  orig: 106, 63
+  offset: 19, 9
+  index: -1
+0003
+  rotate: false
+  xy: 702, 437
+  size: 70, 45
+  orig: 106, 63
+  offset: 22, 8
+  index: -1
+0004
+  rotate: true
+  xy: 776, 253
+  size: 64, 46
+  orig: 106, 63
+  offset: 23, 7
+  index: -1
+0005
+  rotate: true
+  xy: 776, 319
+  size: 65, 46
+  orig: 106, 63
+  offset: 21, 7
+  index: -1
+0006
+  rotate: true
+  xy: 642, 103
+  size: 66, 46
+  orig: 106, 63
+  offset: 22, 7
+  index: -1
+0007
+  rotate: true
+  xy: 2, 2
+  size: 69, 44
+  orig: 106, 63
+  offset: 21, 10
+  index: -1
+0008
+  rotate: false
+  xy: 702, 391
+  size: 70, 44
+  orig: 106, 63
+  offset: 19, 9
+  index: -1
+2_arm_L
+  rotate: true
+  xy: 2, 73
+  size: 456, 248
+  orig: 456, 248
+  offset: 0, 0
+  index: -1
+2_arm_R
+  rotate: true
+  xy: 552, 5
+  size: 95, 144
+  orig: 95, 144
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 252, 308
+  size: 123, 221
+  orig: 123, 221
+  offset: 0, 0
+  index: -1
+2_hair
+  rotate: true
+  xy: 825, 260
+  size: 124, 110
+  orig: 124, 110
+  offset: 0, 0
+  index: -1
+2_hand
+  rotate: true
+  xy: 540, 311
+  size: 36, 42
+  orig: 38, 45
+  offset: 1, 1
+  index: -1
+2_head
+  rotate: true
+  xy: 405, 3
+  size: 82, 145
+  orig: 84, 147
+  offset: 1, 1
+  index: -1
+2_leg_L
+  rotate: true
+  xy: 702, 349
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+2_leg_R
+  rotate: true
+  xy: 880, 130
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+2_qun
+  rotate: false
+  xy: 415, 102
+  size: 143, 207
+  orig: 143, 207
+  offset: 0, 0
+  index: -1
+huang_1_1
+  rotate: true
+  xy: 252, 87
+  size: 219, 161
+  orig: 220, 166
+  offset: 1, 0
+  index: -1
+huang_2_1
+  rotate: true
+  xy: 377, 311
+  size: 218, 161
+  orig: 220, 166
+  offset: 2, 0
+  index: -1
+huang_3_1
+  rotate: true
+  xy: 540, 349
+  size: 180, 160
+  orig: 220, 166
+  offset: 39, 1
+  index: -1
+huang_4_1
+  rotate: true
+  xy: 690, 104
+  size: 65, 133
+  orig: 220, 166
+  offset: 154, 26
+  index: -1
+yanwu80001
+  rotate: true
+  xy: 880, 5
+  size: 123, 50
+  orig: 123, 50
+  offset: 0, 0
+  index: -1
+yanwu80002
+  rotate: true
+  xy: 825, 41
+  size: 129, 53
+  orig: 129, 53
+  offset: 0, 0
+  index: -1
+yanwu80003
+  rotate: false
+  xy: 774, 386
+  size: 170, 63
+  orig: 170, 63
+  offset: 0, 0
+  index: -1
+yanwu80004
+  rotate: true
+  xy: 635, 171
+  size: 176, 62
+  orig: 176, 62
+  offset: 0, 0
+  index: -1
+yanwu80005
+  rotate: false
+  xy: 96, 4
+  size: 171, 67
+  orig: 171, 67
+  offset: 0, 0
+  index: -1
+yanwu80006
+  rotate: true
+  xy: 560, 130
+  size: 179, 73
+  orig: 179, 73
+  offset: 0, 0
+  index: -1
+yanwu80007
+  rotate: true
+  xy: 699, 172
+  size: 175, 75
+  orig: 175, 75
+  offset: 0, 0
+  index: -1
+yanwu80008
+  rotate: false
+  xy: 776, 451
+  size: 165, 78
+  orig: 165, 78
+  offset: 0, 0
+  index: -1
+yanwu80009
+  rotate: false
+  xy: 776, 172
+  size: 156, 79
+  orig: 156, 79
+  offset: 0, 0
+  index: -1
+yanwu80010
+  rotate: false
+  xy: 269, 2
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+yanwu80011
+  rotate: true
+  xy: 698, 28
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 560, 102
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+guochangdonghua.png
+size: 1415,1265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 1265, 1092
+  size: 148, 171
+  orig: 148, 171
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 1265, 919
+  size: 148, 171
+  orig: 148, 171
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 1265, 746
+  size: 148, 171
+  orig: 148, 171
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1265, 573
+  size: 148, 171
+  orig: 148, 171
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 1265, 400
+  size: 148, 171
+  orig: 148, 171
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 1265, 227
+  size: 148, 171
+  orig: 148, 171
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 1265, 54
+  size: 148, 171
+  orig: 148, 171
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 2, 2
+  size: 1261, 1261
+  orig: 1261, 1261
+  offset: 0, 0
+  index: -1

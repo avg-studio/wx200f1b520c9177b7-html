@@ -1,0 +1,62 @@
+
+ku.png
+size: 214,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lt
+  rotate: false
+  xy: 2, 2
+  size: 181, 109
+  orig: 183, 109
+  offset: 1, 0
+  index: -1
+st
+  rotate: true
+  xy: 185, 53
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 185, 2
+  size: 9, 6
+  orig: 10, 7
+  offset: 0, 1
+  index: -1
+y2
+  rotate: false
+  xy: 185, 37
+  size: 10, 14
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 185, 10
+  size: 15, 8
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 196, 26
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 185, 20
+  size: 15, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+z3
+  rotate: true
+  xy: 197, 43
+  size: 8, 15
+  orig: 10, 16
+  offset: 1, 0
+  index: -1

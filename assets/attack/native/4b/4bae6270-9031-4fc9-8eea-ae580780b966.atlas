@@ -1,0 +1,174 @@
+
+skeleton.png
+size: 740,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo10_00
+  rotate: false
+  xy: 660, 633
+  size: 69, 105
+  orig: 171, 256
+  offset: 43, 1
+  index: -1
+huo10_02
+  rotate: false
+  xy: 2, 10
+  size: 121, 212
+  orig: 171, 256
+  offset: 10, 0
+  index: -1
+huo10_04
+  rotate: false
+  xy: 2, 482
+  size: 159, 256
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+huo10_06
+  rotate: false
+  xy: 163, 483
+  size: 115, 255
+  orig: 171, 256
+  offset: 17, 0
+  index: -1
+huo10_16
+  rotate: false
+  xy: 163, 483
+  size: 115, 255
+  orig: 171, 256
+  offset: 17, 0
+  index: -1
+huo10_08
+  rotate: false
+  xy: 584, 272
+  size: 134, 227
+  orig: 171, 256
+  offset: 1, 0
+  index: -1
+huo10_18
+  rotate: false
+  xy: 584, 272
+  size: 134, 227
+  orig: 171, 256
+  offset: 1, 0
+  index: -1
+huo10_10
+  rotate: false
+  xy: 264, 228
+  size: 102, 253
+  orig: 171, 256
+  offset: 24, 0
+  index: -1
+huo10_20
+  rotate: false
+  xy: 264, 228
+  size: 102, 253
+  orig: 171, 256
+  offset: 24, 0
+  index: -1
+huo10_12
+  rotate: false
+  xy: 400, 5
+  size: 146, 232
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+huo10_22
+  rotate: false
+  xy: 400, 5
+  size: 146, 232
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+huo10_14
+  rotate: false
+  xy: 368, 239
+  size: 99, 248
+  orig: 171, 256
+  offset: 24, 0
+  index: -1
+huo10_24
+  rotate: false
+  xy: 368, 239
+  size: 99, 248
+  orig: 171, 256
+  offset: 24, 0
+  index: -1
+huo10_26
+  rotate: false
+  xy: 404, 493
+  size: 119, 245
+  orig: 171, 256
+  offset: 18, 0
+  index: -1
+huo10_28
+  rotate: false
+  xy: 280, 489
+  size: 122, 249
+  orig: 171, 256
+  offset: 15, 0
+  index: -1
+huo10_30
+  rotate: false
+  xy: 123, 225
+  size: 139, 255
+  orig: 171, 256
+  offset: 5, 0
+  index: -1
+huo10_32
+  rotate: false
+  xy: 2, 224
+  size: 119, 256
+  orig: 171, 256
+  offset: 13, 0
+  index: -1
+huo10_34
+  rotate: false
+  xy: 469, 248
+  size: 113, 243
+  orig: 171, 256
+  offset: 15, 13
+  index: -1
+huo10_36
+  rotate: false
+  xy: 548, 7
+  size: 110, 239
+  orig: 171, 256
+  offset: 14, 17
+  index: -1
+huo10_38
+  rotate: false
+  xy: 525, 501
+  size: 109, 237
+  orig: 171, 256
+  offset: 14, 19
+  index: -1
+huo10_40
+  rotate: false
+  xy: 125, 23
+  size: 102, 200
+  orig: 171, 256
+  offset: 15, 51
+  index: -1
+huo10_42
+  rotate: false
+  xy: 229, 37
+  size: 91, 186
+  orig: 171, 256
+  offset: 19, 60
+  index: -1
+huo10_44
+  rotate: false
+  xy: 322, 70
+  size: 76, 156
+  orig: 171, 256
+  offset: 30, 68
+  index: -1
+huo10_46
+  rotate: true
+  xy: 229, 2
+  size: 33, 149
+  orig: 171, 256
+  offset: 55, 71
+  index: -1

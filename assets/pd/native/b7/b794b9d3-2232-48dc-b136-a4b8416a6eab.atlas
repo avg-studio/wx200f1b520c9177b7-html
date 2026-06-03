@@ -1,0 +1,69 @@
+
+daoshi.png
+size: 240,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_yy
+  rotate: false
+  xy: 2, 2
+  size: 82, 25
+  orig: 82, 25
+  offset: 0, 0
+  index: -1
+daoshi_arm_L
+  rotate: true
+  xy: 142, 53
+  size: 22, 37
+  orig: 24, 39
+  offset: 1, 1
+  index: -1
+daoshi_arm_L2
+  rotate: true
+  xy: 89, 29
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+daoshi_arm_R
+  rotate: true
+  xy: 86, 2
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+daoshi_body
+  rotate: true
+  xy: 2, 29
+  size: 46, 85
+  orig: 64, 98
+  offset: 0, 0
+  index: -1
+daoshi_elbow
+  rotate: true
+  xy: 140, 32
+  size: 18, 34
+  orig: 20, 36
+  offset: 1, 1
+  index: -1
+daoshi_head
+  rotate: false
+  xy: 184, 11
+  size: 54, 64
+  orig: 56, 66
+  offset: 1, 1
+  index: -1
+daoshi_leg_L
+  rotate: true
+  xy: 137, 3
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+daoshi_leg_R
+  rotate: true
+  xy: 89, 52
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+tx_dimian.png
+size: 2027,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dimian
+  rotate: true
+  xy: 2, 11
+  size: 255, 256
+  orig: 256, 256
+  offset: 1, 0
+  index: -1
+jianshe2/1_00000
+  rotate: false
+  xy: 327, 17
+  size: 274, 272
+  orig: 500, 500
+  offset: 110, 114
+  index: -1
+jianshe2/1_00001
+  rotate: false
+  xy: 2, 268
+  size: 323, 322
+  orig: 500, 500
+  offset: 91, 90
+  index: -1
+jianshe2/1_00002
+  rotate: false
+  xy: 327, 291
+  size: 332, 299
+  orig: 500, 500
+  offset: 103, 102
+  index: -1
+jianshe2/1_00003
+  rotate: true
+  xy: 1741, 241
+  size: 349, 284
+  orig: 500, 500
+  offset: 94, 104
+  index: -1
+jianshe2/1_00004
+  rotate: false
+  xy: 661, 294
+  size: 388, 296
+  orig: 500, 500
+  offset: 87, 101
+  index: -1
+jianshe2/1_00005
+  rotate: false
+  xy: 1051, 295
+  size: 395, 295
+  orig: 500, 500
+  offset: 100, 106
+  index: -1
+jianshe2/1_00006
+  rotate: true
+  xy: 1448, 202
+  size: 388, 291
+  orig: 500, 500
+  offset: 106, 106
+  index: -1
+jianshe2/1_00007
+  rotate: false
+  xy: 1051, 2
+  size: 376, 291
+  orig: 500, 500
+  offset: 116, 104
+  index: -1
+jianshe2/1_00008
+  rotate: false
+  xy: 661, 7
+  size: 374, 285
+  orig: 500, 500
+  offset: 121, 103
+  index: -1
+jianshe2/1_00009
+  rotate: true
+  xy: 1741, 22
+  size: 217, 281
+  orig: 500, 500
+  offset: 179, 105
+  index: -1
+jianshe2/1_00010
+  rotate: true
+  xy: 1429, 60
+  size: 140, 187
+  orig: 500, 500
+  offset: 210, 150
+  index: -1

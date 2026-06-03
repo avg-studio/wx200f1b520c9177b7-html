@@ -1,0 +1,48 @@
+
+pmd_g.png
+size: 1593,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 1467, 293
+  size: 121, 121
+  orig: 128, 128
+  offset: 4, 3
+  index: -1
+k
+  rotate: false
+  xy: 2, 2
+  size: 755, 412
+  orig: 777, 434
+  offset: 11, 11
+  index: -1
+tw
+  rotate: false
+  xy: 1467, 38
+  size: 66, 253
+  orig: 128, 256
+  offset: 32, 3
+  index: -1
+wfg
+  rotate: false
+  xy: 759, 51
+  size: 706, 363
+  orig: 714, 371
+  offset: 4, 4
+  index: -1
+xian
+  rotate: false
+  xy: 759, 33
+  size: 609, 16
+  orig: 609, 16
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: true
+  xy: 1535, 233
+  size: 58, 56
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+boss.png
+size: 931,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00a_00034
+  rotate: false
+  xy: 2, 2
+  size: 382, 366
+  orig: 500, 500
+  offset: 58, 68
+  index: -1
+2_arm_L
+  rotate: false
+  xy: 386, 7
+  size: 150, 140
+  orig: 150, 140
+  offset: 0, 0
+  index: -1
+2_arm_R
+  rotate: false
+  xy: 847, 90
+  size: 70, 96
+  orig: 72, 98
+  offset: 1, 1
+  index: -1
+2_body
+  rotate: false
+  xy: 538, 22
+  size: 91, 125
+  orig: 91, 127
+  offset: 0, 2
+  index: -1
+2_bozi
+  rotate: false
+  xy: 631, 6
+  size: 72, 142
+  orig: 72, 142
+  offset: 0, 0
+  index: -1
+2_bozi2
+  rotate: true
+  xy: 874, 237
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+2_hand
+  rotate: true
+  xy: 874, 192
+  size: 43, 27
+  orig: 45, 29
+  offset: 1, 1
+  index: -1
+2_head
+  rotate: false
+  xy: 816, 4
+  size: 77, 84
+  orig: 79, 86
+  offset: 1, 1
+  index: -1
+2_leg_L
+  rotate: false
+  xy: 772, 57
+  size: 42, 97
+  orig: 42, 97
+  offset: 0, 0
+  index: -1
+2_leg_R
+  rotate: false
+  xy: 874, 280
+  size: 55, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+2_yy
+  rotate: false
+  xy: 712, 156
+  size: 133, 30
+  orig: 133, 30
+  offset: 0, 0
+  index: -1
+huang_1_1
+  rotate: true
+  xy: 386, 149
+  size: 219, 161
+  orig: 220, 166
+  offset: 1, 0
+  index: -1
+huang_2_1
+  rotate: true
+  xy: 549, 150
+  size: 218, 161
+  orig: 220, 166
+  offset: 2, 0
+  index: -1
+huang_3_1
+  rotate: true
+  xy: 712, 188
+  size: 180, 160
+  orig: 220, 166
+  offset: 39, 1
+  index: -1
+huang_4_1
+  rotate: false
+  xy: 705, 15
+  size: 65, 133
+  orig: 220, 166
+  offset: 154, 26
+  index: -1

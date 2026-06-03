@@ -1,0 +1,132 @@
+
+guai_8.png
+size: 608,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9_arm_L
+  rotate: false
+  xy: 434, 3
+  size: 104, 151
+  orig: 104, 151
+  offset: 0, 0
+  index: -1
+9_arm_R
+  rotate: false
+  xy: 340, 111
+  size: 93, 204
+  orig: 93, 204
+  offset: 0, 0
+  index: -1
+9_body
+  rotate: false
+  xy: 1, 497
+  size: 311, 538
+  orig: 311, 538
+  offset: 0, 0
+  index: -1
+9_elbow_L
+  rotate: false
+  xy: 340, 316
+  size: 110, 197
+  orig: 110, 197
+  offset: 0, 0
+  index: -1
+9_elbow_R
+  rotate: true
+  xy: 313, 514
+  size: 104, 211
+  orig: 104, 211
+  offset: 0, 0
+  index: -1
+9_eye
+  rotate: true
+  xy: 542, 433
+  size: 144, 50
+  orig: 144, 50
+  offset: 0, 0
+  index: -1
+9_head
+  rotate: false
+  xy: 1, 209
+  size: 220, 287
+  orig: 220, 287
+  offset: 0, 0
+  index: -1
+9_leg_L
+  rotate: false
+  xy: 434, 155
+  size: 103, 160
+  orig: 103, 160
+  offset: 0, 0
+  index: -1
+9_leg_R
+  rotate: true
+  xy: 251, 7
+  size: 103, 160
+  orig: 103, 160
+  offset: 0, 0
+  index: -1
+9_liantiao_1
+  rotate: false
+  xy: 538, 168
+  size: 62, 157
+  orig: 62, 157
+  offset: 0, 0
+  index: -1
+9_liantiao_2
+  rotate: false
+  xy: 539, 13
+  size: 65, 154
+  orig: 65, 154
+  offset: 0, 0
+  index: -1
+9_liantiao_3
+  rotate: false
+  xy: 525, 578
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+9_liantiao_4
+  rotate: false
+  xy: 222, 252
+  size: 52, 244
+  orig: 52, 244
+  offset: 0, 0
+  index: -1
+dg2_014
+  rotate: false
+  xy: 313, 827
+  size: 275, 208
+  orig: 275, 208
+  offset: 0, 0
+  index: -1
+dg2_015
+  rotate: false
+  xy: 313, 619
+  size: 275, 207
+  orig: 275, 207
+  offset: 0, 0
+  index: -1
+dg2_016
+  rotate: false
+  xy: 1, 1
+  size: 249, 207
+  orig: 249, 207
+  offset: 0, 0
+  index: -1
+dg2_017
+  rotate: false
+  xy: 451, 326
+  size: 90, 187
+  orig: 90, 187
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 275, 114
+  size: 382, 64
+  orig: 382, 64
+  offset: 0, 0
+  index: -1

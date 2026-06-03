@@ -1,0 +1,20 @@
+
+honguang.png
+size: 215,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongguang
+  rotate: true
+  xy: 173, 46
+  size: 49, 40
+  orig: 63, 54
+  offset: 14, 0
+  index: -1
+hongguang2
+  rotate: false
+  xy: 2, 2
+  size: 169, 93
+  orig: 169, 93
+  offset: 0, 0
+  index: -1

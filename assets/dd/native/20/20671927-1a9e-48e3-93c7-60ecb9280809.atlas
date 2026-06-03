@@ -1,0 +1,153 @@
+
+guai_3.png
+size: 932,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_arm_L
+  rotate: false
+  xy: 187, 19
+  size: 182, 189
+  orig: 182, 189
+  offset: 0, 0
+  index: -1
+4_arm_R
+  rotate: true
+  xy: 1, 20
+  size: 188, 185
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+4_body
+  rotate: false
+  xy: 1, 209
+  size: 258, 323
+  orig: 258, 323
+  offset: 0, 0
+  index: -1
+4_fuzhou
+  rotate: false
+  xy: 859, 8
+  size: 68, 127
+  orig: 68, 127
+  offset: 0, 0
+  index: -1
+4_head
+  rotate: true
+  xy: 260, 248
+  size: 284, 272
+  orig: 284, 272
+  offset: 0, 0
+  index: -1
+4_leg_L
+  rotate: true
+  xy: 666, 72
+  size: 77, 102
+  orig: 77, 102
+  offset: 0, 0
+  index: -1
+4_leg_R
+  rotate: false
+  xy: 787, 171
+  size: 69, 99
+  orig: 69, 99
+  offset: 0, 0
+  index: -1
+4_yifu_1
+  rotate: true
+  xy: 666, 407
+  size: 125, 178
+  orig: 125, 178
+  offset: 0, 0
+  index: -1
+4_yifu_2
+  rotate: false
+  xy: 370, 1
+  size: 105, 210
+  orig: 105, 210
+  offset: 0, 0
+  index: -1
+4_yifu_3
+  rotate: true
+  xy: 658, 312
+  size: 94, 182
+  orig: 94, 182
+  offset: 0, 0
+  index: -1
+4_yifu_4
+  rotate: false
+  xy: 533, 388
+  size: 124, 144
+  orig: 124, 144
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 485, 67
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+guangxian
+  rotate: true
+  xy: 654, 271
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+huo guang0001
+  rotate: true
+  xy: 899, 187
+  size: 172, 29
+  orig: 172, 29
+  offset: 0, 0
+  index: -1
+huo guang0002
+  rotate: false
+  xy: 260, 212
+  size: 224, 35
+  orig: 224, 35
+  offset: 0, 0
+  index: -1
+huo guang0003
+  rotate: true
+  xy: 859, 136
+  size: 223, 39
+  orig: 223, 39
+  offset: 0, 0
+  index: -1
+huo guang0004
+  rotate: true
+  xy: 859, 360
+  size: 172, 54
+  orig: 172, 54
+  offset: 0, 0
+  index: -1
+juguangdian
+  rotate: false
+  xy: 533, 267
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+juguangdian02
+  rotate: false
+  xy: 666, 150
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 769, 69
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 476, 2
+  size: 382, 64
+  orig: 382, 64
+  offset: 0, 0
+  index: -1

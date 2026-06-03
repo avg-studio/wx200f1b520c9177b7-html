@@ -1,0 +1,146 @@
+
+longtou2.png
+size: 468,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingkuai_1
+  rotate: false
+  xy: 414, 165
+  size: 47, 129
+  orig: 47, 130
+  offset: 0, 0
+  index: -1
+bingkuai_2
+  rotate: true
+  xy: 366, 402
+  size: 108, 96
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+bingkuai_3
+  rotate: false
+  xy: 377, 512
+  size: 84, 106
+  orig: 84, 107
+  offset: 0, 1
+  index: -1
+bingkuai_4
+  rotate: true
+  xy: 377, 620
+  size: 57, 87
+  orig: 58, 87
+  offset: 1, 0
+  index: -1
+bingkuai_5
+  rotate: true
+  xy: 366, 296
+  size: 104, 94
+  orig: 106, 95
+  offset: 2, 1
+  index: -1
+bingkuai_6
+  rotate: false
+  xy: 2, 205
+  size: 165, 163
+  orig: 165, 164
+  offset: 0, 0
+  index: -1
+dian_00000
+  rotate: true
+  xy: 180, 237
+  size: 144, 166
+  orig: 230, 230
+  offset: 30, 36
+  index: -1
+dian_00002
+  rotate: false
+  xy: 154, 3
+  size: 150, 160
+  orig: 230, 230
+  offset: 20, 36
+  index: -1
+dian_00004
+  rotate: false
+  xy: 190, 528
+  size: 185, 149
+  orig: 230, 230
+  offset: 16, 42
+  index: -1
+dian_00006
+  rotate: false
+  xy: 2, 650
+  size: 186, 141
+  orig: 230, 230
+  offset: 16, 43
+  index: -1
+dian_00008
+  rotate: false
+  xy: 2, 370
+  size: 176, 129
+  orig: 230, 230
+  offset: 26, 46
+  index: -1
+dian_00010
+  rotate: false
+  xy: 184, 383
+  size: 180, 143
+  orig: 230, 230
+  offset: 26, 52
+  index: -1
+dian_00013
+  rotate: false
+  xy: 2, 501
+  size: 180, 147
+  orig: 230, 230
+  offset: 19, 46
+  index: -1
+dian_00015
+  rotate: false
+  xy: 306, 15
+  size: 160, 148
+  orig: 230, 230
+  offset: 25, 44
+  index: -1
+dian_00017
+  rotate: false
+  xy: 2, 2
+  size: 150, 161
+  orig: 230, 230
+  offset: 30, 30
+  index: -1
+guang
+  rotate: false
+  xy: 431, 783
+  size: 31, 30
+  orig: 33, 33
+  offset: 1, 2
+  index: -1
+longtou_1
+  rotate: true
+  xy: 2, 793
+  size: 169, 228
+  orig: 169, 228
+  offset: 0, 0
+  index: -1
+longtou_2
+  rotate: true
+  xy: 348, 244
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+longtou_3
+  rotate: false
+  xy: 232, 679
+  size: 197, 134
+  orig: 197, 134
+  offset: 0, 0
+  index: -1
+longtou_4
+  rotate: true
+  xy: 232, 815
+  size: 147, 212
+  orig: 147, 212
+  offset: 0, 0
+  index: -1

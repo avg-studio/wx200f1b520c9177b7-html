@@ -1,0 +1,174 @@
+
+daoshi_1.png
+size: 612,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_arm_L
+  rotate: false
+  xy: 187, 4
+  size: 17, 33
+  orig: 19, 35
+  offset: 1, 1
+  index: -1
+1_arm_L2
+  rotate: true
+  xy: 561, 111
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+1_arm_R
+  rotate: true
+  xy: 546, 79
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+1_body
+  rotate: false
+  xy: 82, 28
+  size: 60, 112
+  orig: 81, 126
+  offset: 0, 0
+  index: -1
+1_elbow_L
+  rotate: true
+  xy: 391, 5
+  size: 55, 61
+  orig: 57, 63
+  offset: 1, 1
+  index: -1
+1_elbow_L2
+  rotate: false
+  xy: 262, 2
+  size: 21, 42
+  orig: 23, 44
+  offset: 1, 1
+  index: -1
+1_head
+  rotate: true
+  xy: 339, 4
+  size: 44, 50
+  orig: 46, 52
+  offset: 1, 1
+  index: -1
+1_leg_L
+  rotate: false
+  xy: 561, 10
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+1_leg_R
+  rotate: false
+  xy: 285, 2
+  size: 21, 46
+  orig: 23, 48
+  offset: 1, 1
+  index: -1
+1_yy
+  rotate: true
+  xy: 462, 62
+  size: 78, 21
+  orig: 78, 21
+  offset: 0, 0
+  index: -1
+2_arm_L
+  rotate: false
+  xy: 485, 77
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+2_arm_R
+  rotate: true
+  xy: 206, 6
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 144, 39
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+2_head
+  rotate: false
+  xy: 515, 10
+  size: 44, 50
+  orig: 46, 52
+  offset: 1, 1
+  index: -1
+2_leg_L
+  rotate: false
+  xy: 454, 7
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+2_leg_R
+  rotate: false
+  xy: 308, 3
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+2_yy
+  rotate: false
+  xy: 82, 5
+  size: 103, 21
+  orig: 103, 21
+  offset: 0, 0
+  index: -1
+yan_000
+  rotate: true
+  xy: 561, 40
+  size: 37, 39
+  orig: 170, 170
+  offset: 26, 59
+  index: -1
+yan_001
+  rotate: false
+  xy: 385, 62
+  size: 75, 78
+  orig: 170, 170
+  offset: 16, 34
+  index: -1
+yan_002
+  rotate: true
+  xy: 2, 3
+  size: 137, 78
+  orig: 170, 170
+  offset: 10, 40
+  index: -1
+yan_003
+  rotate: true
+  xy: 234, 46
+  size: 94, 49
+  orig: 170, 170
+  offset: 29, 54
+  index: -1
+yan_004
+  rotate: true
+  xy: 285, 50
+  size: 90, 53
+  orig: 170, 170
+  offset: 36, 53
+  index: -1
+yan_005
+  rotate: true
+  xy: 340, 58
+  size: 82, 43
+  orig: 170, 170
+  offset: 45, 57
+  index: -1
+yan_006
+  rotate: false
+  xy: 485, 62
+  size: 36, 13
+  orig: 170, 170
+  offset: 54, 67
+  index: -1

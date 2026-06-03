@@ -1,0 +1,104 @@
+
+jiemian_4.png
+size: 1676,1311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_bg
+  rotate: true
+  xy: 2, 307
+  size: 1002, 1668
+  orig: 1004, 1670
+  offset: 1, 1
+  index: -1
+4_shitou_1
+  rotate: true
+  xy: 707, 153
+  size: 152, 352
+  orig: 154, 354
+  offset: 1, 1
+  index: -1
+4_shitou_10
+  rotate: true
+  xy: 1277, 200
+  size: 105, 166
+  orig: 108, 168
+  offset: 2, 1
+  index: -1
+4_shitou_11
+  rotate: true
+  xy: 1123, 2
+  size: 91, 164
+  orig: 93, 166
+  offset: 1, 1
+  index: -1
+4_shitou_2
+  rotate: true
+  xy: 393, 31
+  size: 274, 312
+  orig: 276, 314
+  offset: 1, 1
+  index: -1
+4_shitou_3
+  rotate: true
+  xy: 923, 26
+  size: 125, 198
+  orig: 128, 200
+  offset: 2, 1
+  index: -1
+4_shitou_4
+  rotate: true
+  xy: 2, 42
+  size: 263, 389
+  orig: 265, 391
+  offset: 1, 1
+  index: -1
+4_shitou_5
+  rotate: true
+  xy: 1061, 194
+  size: 111, 214
+  orig: 114, 216
+  offset: 2, 1
+  index: -1
+4_shitou_6
+  rotate: false
+  xy: 1575, 46
+  size: 99, 156
+  orig: 101, 158
+  offset: 1, 1
+  index: -1
+4_shitou_7
+  rotate: true
+  xy: 707, 15
+  size: 136, 214
+  orig: 139, 216
+  offset: 2, 1
+  index: -1
+4_shitou_8
+  rotate: true
+  xy: 1445, 204
+  size: 101, 159
+  orig: 104, 161
+  offset: 2, 1
+  index: -1
+4_shitou_9
+  rotate: false
+  xy: 1472, 43
+  size: 101, 159
+  orig: 103, 161
+  offset: 1, 1
+  index: -1
+bianfu_1
+  rotate: true
+  xy: 1357, 32
+  size: 166, 113
+  orig: 166, 113
+  offset: 0, 0
+  index: -1
+bianfu_2
+  rotate: false
+  xy: 1123, 95
+  size: 232, 97
+  orig: 232, 97
+  offset: 0, 0
+  index: -1

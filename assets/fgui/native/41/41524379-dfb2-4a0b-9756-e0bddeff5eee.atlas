@@ -1,0 +1,20 @@
+
+guideFinger.png
+size: 153,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouz
+  rotate: false
+  xy: 79, 5
+  size: 72, 72
+  orig: 74, 73
+  offset: 1, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 2, 2
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1

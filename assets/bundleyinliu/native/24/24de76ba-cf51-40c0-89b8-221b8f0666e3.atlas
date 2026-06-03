@@ -1,0 +1,41 @@
+
+wanju_4.png
+size: 779,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_1
+  rotate: true
+  xy: 493, 134
+  size: 231, 177
+  orig: 231, 177
+  offset: 0, 0
+  index: -1
+4_2
+  rotate: false
+  xy: 672, 188
+  size: 66, 177
+  orig: 66, 177
+  offset: 0, 0
+  index: -1
+4_3
+  rotate: true
+  xy: 493, 2
+  size: 130, 214
+  orig: 130, 214
+  offset: 0, 0
+  index: -1
+4_4
+  rotate: false
+  xy: 740, 119
+  size: 37, 246
+  orig: 37, 246
+  offset: 0, 0
+  index: -1
+shazhi
+  rotate: false
+  xy: 2, 7
+  size: 489, 358
+  orig: 491, 360
+  offset: 1, 1
+  index: -1

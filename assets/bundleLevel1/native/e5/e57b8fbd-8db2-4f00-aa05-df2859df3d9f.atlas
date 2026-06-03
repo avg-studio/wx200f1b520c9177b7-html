@@ -1,0 +1,13 @@
+
+daota.png
+size: 185,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan
+  rotate: false
+  xy: 2, 2
+  size: 181, 100
+  orig: 198, 106
+  offset: 12, 2
+  index: -1

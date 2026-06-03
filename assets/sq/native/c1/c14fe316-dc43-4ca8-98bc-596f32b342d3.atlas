@@ -1,0 +1,279 @@
+
+nvjiangshi.png
+size: 1985,1669
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000001_00000
+  rotate: false
+  xy: 507, 511
+  size: 206, 383
+  orig: 512, 512
+  offset: 138, 45
+  index: -1
+000001_00001
+  rotate: false
+  xy: 1268, 149
+  size: 210, 374
+  orig: 512, 512
+  offset: 137, 44
+  index: -1
+000001_00002
+  rotate: false
+  xy: 1499, 1306
+  size: 216, 361
+  orig: 512, 512
+  offset: 134, 47
+  index: -1
+000001_00003
+  rotate: false
+  xy: 1248, 910
+  size: 220, 375
+  orig: 512, 512
+  offset: 131, 46
+  index: -1
+000001_00004
+  rotate: false
+  xy: 1019, 905
+  size: 227, 380
+  orig: 512, 512
+  offset: 127, 46
+  index: -1
+000001_00005
+  rotate: false
+  xy: 263, 856
+  size: 233, 386
+  orig: 512, 512
+  offset: 125, 43
+  index: -1
+000001_00006
+  rotate: false
+  xy: 1718, 187
+  size: 240, 366
+  orig: 512, 512
+  offset: 121, 37
+  index: -1
+000001_00007
+  rotate: false
+  xy: 1470, 918
+  size: 247, 373
+  orig: 512, 512
+  offset: 118, 41
+  index: -1
+000001_00008
+  rotate: false
+  xy: 1013, 139
+  size: 253, 378
+  orig: 512, 512
+  offset: 115, 47
+  index: -1
+000001_00009
+  rotate: false
+  xy: 518, 128
+  size: 256, 381
+  orig: 512, 512
+  offset: 111, 50
+  index: -1
+000001_00010
+  rotate: false
+  xy: 498, 896
+  size: 260, 384
+  orig: 512, 512
+  offset: 109, 44
+  index: -1
+000001_00011
+  rotate: false
+  xy: 253, 454
+  size: 252, 386
+  orig: 512, 512
+  offset: 121, 40
+  index: -1
+000001_00012
+  rotate: false
+  xy: 2, 842
+  size: 259, 389
+  orig: 512, 512
+  offset: 118, 39
+  index: -1
+000001_00013
+  rotate: false
+  xy: 249, 62
+  size: 267, 387
+  orig: 512, 512
+  offset: 114, 44
+  index: -1
+000001_00014
+  rotate: false
+  xy: 1442, 535
+  size: 274, 373
+  orig: 512, 512
+  offset: 110, 47
+  index: -1
+000001_00015
+  rotate: false
+  xy: 760, 901
+  size: 257, 380
+  orig: 512, 512
+  offset: 119, 41
+  index: -1
+000001_00016
+  rotate: false
+  xy: 735, 1283
+  size: 260, 384
+  orig: 512, 512
+  offset: 115, 44
+  index: -1
+000001_00017
+  rotate: false
+  xy: 1719, 929
+  size: 249, 363
+  orig: 512, 512
+  offset: 130, 45
+  index: -1
+000001_00018
+  rotate: false
+  xy: 217, 1278
+  size: 255, 389
+  orig: 512, 512
+  offset: 127, 35
+  index: -1
+000001_00019
+  rotate: false
+  xy: 1199, 525
+  size: 241, 378
+  orig: 512, 512
+  offset: 125, 37
+  index: -1
+000001_00020
+  rotate: false
+  xy: 1199, 525
+  size: 241, 378
+  orig: 512, 512
+  offset: 125, 37
+  index: -1
+000001_00021
+  rotate: false
+  xy: 2, 60
+  size: 245, 389
+  orig: 512, 512
+  offset: 123, 40
+  index: -1
+000001_00022
+  rotate: false
+  xy: 2, 451
+  size: 249, 389
+  orig: 512, 512
+  offset: 122, 45
+  index: -1
+000001_00023
+  rotate: false
+  xy: 997, 1287
+  size: 254, 380
+  orig: 512, 512
+  offset: 119, 49
+  index: -1
+000001_00024
+  rotate: false
+  xy: 474, 1282
+  size: 259, 385
+  orig: 512, 512
+  offset: 116, 49
+  index: -1
+000001_00025
+  rotate: false
+  xy: 1718, 1294
+  size: 265, 373
+  orig: 512, 512
+  offset: 113, 45
+  index: -1
+000001_00026
+  rotate: false
+  xy: 776, 130
+  size: 235, 381
+  orig: 512, 512
+  offset: 123, 40
+  index: -1
+000001_00027
+  rotate: false
+  xy: 956, 519
+  size: 241, 380
+  orig: 512, 512
+  offset: 120, 45
+  index: -1
+000001_00028
+  rotate: false
+  xy: 1719, 555
+  size: 246, 372
+  orig: 512, 512
+  offset: 117, 50
+  index: -1
+000001_00029
+  rotate: false
+  xy: 715, 513
+  size: 239, 381
+  orig: 512, 512
+  offset: 115, 47
+  index: -1
+000001_00030
+  rotate: false
+  xy: 1253, 1293
+  size: 244, 374
+  orig: 512, 512
+  offset: 112, 48
+  index: -1
+2_yy
+  rotate: false
+  xy: 217, 1244
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+liewen
+  rotate: false
+  xy: 1480, 198
+  size: 206, 335
+  orig: 206, 335
+  offset: 0, 0
+  index: -1
+nv_abody
+  rotate: false
+  xy: 2, 1233
+  size: 213, 434
+  orig: 213, 434
+  offset: 0, 0
+  index: -1
+nv_arm_L
+  rotate: true
+  xy: 913, 12
+  size: 116, 232
+  orig: 116, 232
+  offset: 0, 0
+  index: -1
+nv_arm_R
+  rotate: true
+  xy: 683, 4
+  size: 122, 228
+  orig: 122, 228
+  offset: 0, 0
+  index: -1
+nv_head
+  rotate: false
+  xy: 518, 2
+  size: 163, 124
+  orig: 163, 124
+  offset: 0, 0
+  index: -1
+nv_leg_L
+  rotate: false
+  xy: 1147, 37
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+nv_leg_R
+  rotate: false
+  xy: 1217, 37
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1

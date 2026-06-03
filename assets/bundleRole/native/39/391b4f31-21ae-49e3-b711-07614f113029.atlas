@@ -1,0 +1,110 @@
+
+nanzhu.png
+size: 2045,1676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nan_1_body
+  rotate: true
+  xy: 1025, 927
+  size: 375, 1018
+  orig: 377, 1022
+  offset: 0, 2
+  index: -1
+nan_1_mouth
+  rotate: false
+  xy: 448, 1597
+  size: 109, 77
+  orig: 114, 81
+  offset: 2, 1
+  index: -1
+nan_2_body
+  rotate: true
+  xy: 2, 929
+  size: 373, 1021
+  orig: 377, 1027
+  offset: 1, 2
+  index: -1
+nan_2_mouth
+  rotate: false
+  xy: 268, 1617
+  size: 88, 57
+  orig: 93, 60
+  offset: 2, 2
+  index: -1
+nan_3_body
+  rotate: true
+  xy: 559, 1304
+  size: 370, 1017
+  orig: 374, 1022
+  offset: 2, 2
+  index: -1
+nan_3_mouth
+  rotate: false
+  xy: 2, 1628
+  size: 75, 46
+  orig: 79, 49
+  offset: 2, 1
+  index: -1
+nan_4_body
+  rotate: true
+  xy: 2, 551
+  size: 376, 1016
+  orig: 377, 1023
+  offset: 0, 2
+  index: -1
+nan_4_moutrh
+  rotate: false
+  xy: 176, 1618
+  size: 90, 56
+  orig: 95, 60
+  offset: 2, 2
+  index: -1
+nan_5_body
+  rotate: true
+  xy: 1020, 488
+  size: 437, 1023
+  orig: 438, 1027
+  offset: 0, 2
+  index: -1
+nan_5_mouth
+  rotate: false
+  xy: 358, 1605
+  size: 88, 69
+  orig: 96, 77
+  offset: 5, 1
+  index: -1
+nan_6_body
+  rotate: true
+  xy: 2, 2
+  size: 484, 1025
+  orig: 488, 1028
+  offset: 2, 2
+  index: -1
+nan_6_mouth
+  rotate: false
+  xy: 79, 1621
+  size: 95, 53
+  orig: 98, 56
+  offset: 1, 2
+  index: -1
+
+nanzhu2.png
+size: 1372,1217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nan_6_yan
+  rotate: true
+  xy: 2, 490
+  size: 725, 1368
+  orig: 725, 1368
+  offset: 0, 0
+  index: -1
+sss
+  rotate: true
+  xy: 2, 2
+  size: 486, 1025
+  orig: 487, 1027
+  offset: 1, 2
+  index: -1

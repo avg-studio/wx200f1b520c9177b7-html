@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 272,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18_9
+  rotate: false
+  xy: 249, 66
+  size: 21, 21
+  orig: 22, 22
+  offset: 1, 0
+  index: -1
+18_bl
+  rotate: true
+  xy: 164, 5
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+18_shui2
+  rotate: true
+  xy: 213, 6
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+b2
+  rotate: true
+  xy: 2, 2
+  size: 172, 160
+  orig: 173, 160
+  offset: 0, 0
+  index: -1
+b3
+  rotate: true
+  xy: 164, 89
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1

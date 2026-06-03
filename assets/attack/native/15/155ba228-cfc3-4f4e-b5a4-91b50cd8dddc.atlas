@@ -1,0 +1,20 @@
+
+hengfu.png
+size: 774,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 2
+  size: 709, 80
+  orig: 709, 80
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 713, 10
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+sxd.png
+size: 1294,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg
+  rotate: false
+  xy: 2, 2
+  size: 910, 600
+  orig: 910, 660
+  offset: 0, 30
+  index: -1
+xx
+  rotate: false
+  xy: 914, 224
+  size: 378, 378
+  orig: 512, 512
+  offset: 67, 67
+  index: -1
+xx2
+  rotate: false
+  xy: 914, 94
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+diguang.png
+size: 665,664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 661, 660
+  orig: 777, 776
+  offset: 60, 58
+  index: -1

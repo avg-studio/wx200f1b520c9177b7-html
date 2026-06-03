@@ -1,0 +1,237 @@
+
+beibaoboss_3_dunpai.png
+size: 1716,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_dunpai
+  rotate: false
+  xy: 2, 2
+  size: 132, 212
+  orig: 134, 214
+  offset: 1, 1
+  index: -1
+dunpai_1
+  rotate: true
+  xy: 1470, 7
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+dunpai_2
+  rotate: true
+  xy: 1628, 51
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+dunpai_3
+  rotate: true
+  xy: 1560, 137
+  size: 58, 68
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+dunpai_4
+  rotate: true
+  xy: 1389, 4
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+dunpai_5
+  rotate: true
+  xy: 1633, 171
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+dunpai_6
+  rotate: true
+  xy: 1560, 197
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+dunpai_7
+  rotate: false
+  xy: 1637, 231
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+dunpai_8
+  rotate: true
+  xy: 1630, 112
+  size: 57, 81
+  orig: 58, 83
+  offset: 0, 1
+  index: -1
+dunpai_9
+  rotate: true
+  xy: 1560, 55
+  size: 80, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+hong_00000
+  rotate: false
+  xy: 1550, 236
+  size: 85, 91
+  orig: 864, 864
+  offset: 389, 389
+  index: -1
+hong_00001
+  rotate: true
+  xy: 1550, 329
+  size: 127, 128
+  orig: 864, 864
+  offset: 368, 368
+  index: -1
+hong_00002
+  rotate: false
+  xy: 1389, 58
+  size: 169, 172
+  orig: 864, 864
+  offset: 347, 346
+  index: -1
+hong_00003
+  rotate: true
+  xy: 136, 3
+  size: 211, 214
+  orig: 864, 864
+  offset: 326, 325
+  index: -1
+hong_00004
+  rotate: false
+  xy: 525, 2
+  size: 217, 220
+  orig: 864, 864
+  offset: 323, 322
+  index: -1
+hong_00005
+  rotate: false
+  xy: 1166, 2
+  size: 221, 224
+  orig: 864, 864
+  offset: 321, 320
+  index: -1
+hong_00006
+  rotate: false
+  xy: 665, 226
+  size: 223, 230
+  orig: 864, 864
+  offset: 320, 317
+  index: -1
+hong_00007
+  rotate: false
+  xy: 1101, 228
+  size: 226, 228
+  orig: 864, 864
+  offset: 319, 318
+  index: -1
+hong_00008
+  rotate: true
+  xy: 744, 2
+  size: 222, 228
+  orig: 864, 864
+  offset: 321, 319
+  index: -1
+hong_00009
+  rotate: false
+  xy: 1329, 232
+  size: 219, 224
+  orig: 864, 864
+  offset: 324, 323
+  index: -1
+hong_00010
+  rotate: true
+  xy: 438, 224
+  size: 232, 225
+  orig: 864, 864
+  offset: 320, 333
+  index: -1
+hong_00011
+  rotate: true
+  xy: 890, 227
+  size: 229, 209
+  orig: 864, 864
+  offset: 321, 349
+  index: -1
+hong_00012
+  rotate: true
+  xy: 218, 219
+  size: 237, 218
+  orig: 864, 864
+  offset: 320, 351
+  index: -1
+hong_00013
+  rotate: true
+  xy: 218, 219
+  size: 237, 218
+  orig: 864, 864
+  offset: 320, 351
+  index: -1
+hong_00014
+  rotate: true
+  xy: 218, 219
+  size: 237, 218
+  orig: 864, 864
+  offset: 320, 351
+  index: -1
+hong_00015
+  rotate: true
+  xy: 2, 216
+  size: 240, 214
+  orig: 864, 864
+  offset: 320, 358
+  index: -1
+hong_00016
+  rotate: true
+  xy: 2, 216
+  size: 240, 214
+  orig: 864, 864
+  offset: 320, 358
+  index: -1
+hong_00017
+  rotate: true
+  xy: 2, 216
+  size: 240, 214
+  orig: 864, 864
+  offset: 320, 358
+  index: -1
+hong_00018
+  rotate: true
+  xy: 974, 2
+  size: 223, 190
+  orig: 864, 864
+  offset: 331, 357
+  index: -1
+hong_00019
+  rotate: true
+  xy: 974, 2
+  size: 223, 190
+  orig: 864, 864
+  offset: 331, 357
+  index: -1
+hong_00020
+  rotate: true
+  xy: 974, 2
+  size: 223, 190
+  orig: 864, 864
+  offset: 331, 357
+  index: -1
+hong_00022
+  rotate: true
+  xy: 352, 7
+  size: 210, 171
+  orig: 864, 864
+  offset: 344, 357
+  index: -1
+hong_00021
+  rotate: true
+  xy: 352, 7
+  size: 210, 171
+  orig: 864, 864
+  offset: 344, 357
+  index: -1

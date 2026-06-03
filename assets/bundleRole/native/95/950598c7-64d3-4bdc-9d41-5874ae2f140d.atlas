@@ -1,0 +1,138 @@
+
+nvzhu.png
+size: 1752,1802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buchong_nv_body
+  rotate: true
+  xy: 2, 2
+  size: 517, 1239
+  orig: 517, 1241
+  offset: 0, 2
+  index: -1
+buchong_nv_mouth
+  rotate: false
+  xy: 763, 728
+  size: 89, 53
+  orig: 94, 56
+  offset: 2, 2
+  index: -1
+nv_1_bdoy
+  rotate: false
+  xy: 2, 521
+  size: 507, 1279
+  orig: 511, 1286
+  offset: 2, 2
+  index: -1
+nv_1_mouth
+  rotate: true
+  xy: 934, 646
+  size: 81, 50
+  orig: 85, 53
+  offset: 2, 2
+  index: -1
+nv_2_mouth
+  rotate: false
+  xy: 934, 729
+  size: 88, 52
+  orig: 94, 56
+  offset: 2, 3
+  index: -1
+nv_3_bdoy
+  rotate: true
+  xy: 511, 783
+  size: 513, 1238
+  orig: 513, 1242
+  offset: 0, 2
+  index: -1
+nv_3_mouth
+  rotate: false
+  xy: 854, 728
+  size: 78, 53
+  orig: 82, 56
+  offset: 2, 2
+  index: -1
+nv_4_mouth
+  rotate: false
+  xy: 675, 727
+  size: 86, 54
+  orig: 89, 57
+  offset: 1, 2
+  index: -1
+nv_5_mouth
+  rotate: true
+  xy: 1024, 696
+  size: 85, 51
+  orig: 88, 55
+  offset: 1, 2
+  index: -1
+nv_6_mouth
+  rotate: false
+  xy: 511, 726
+  size: 81, 55
+  orig: 85, 58
+  offset: 2, 1
+  index: -1
+nv_7_mouth
+  rotate: false
+  xy: 594, 726
+  size: 79, 55
+  orig: 83, 59
+  offset: 2, 2
+  index: -1
+nv_8_body
+  rotate: true
+  xy: 511, 1298
+  size: 502, 1239
+  orig: 506, 1242
+  offset: 2, 2
+  index: -1
+nv_8_mouth
+  rotate: true
+  xy: 1243, 704
+  size: 77, 56
+  orig: 80, 60
+  offset: 1, 2
+  index: -1
+
+nvzhu2.png
+size: 1928,1687
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nv_2_bdoy
+  rotate: true
+  xy: 498, 2
+  size: 449, 1238
+  orig: 452, 1242
+  offset: 2, 2
+  index: -1
+nv_4_bdoy
+  rotate: false
+  xy: 990, 453
+  size: 469, 1232
+  orig: 471, 1237
+  offset: 1, 2
+  index: -1
+nv_5_body
+  rotate: false
+  xy: 498, 453
+  size: 490, 1232
+  orig: 490, 1237
+  offset: 0, 2
+  index: -1
+nv_6_body
+  rotate: false
+  xy: 2, 452
+  size: 494, 1233
+  orig: 494, 1237
+  offset: 0, 2
+  index: -1
+nv_7_body
+  rotate: false
+  xy: 1461, 453
+  size: 465, 1232
+  orig: 471, 1237
+  offset: 3, 3
+  index: -1

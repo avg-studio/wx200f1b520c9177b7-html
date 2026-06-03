@@ -1,0 +1,139 @@
+
+huix2.png
+size: 113,595
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/bbzi_01_01
+  rotate: false
+  xy: 2, 360
+  size: 64, 61
+  orig: 96, 81
+  offset: 17, 8
+  index: -1
+ef/bbzi_01_02
+  rotate: true
+  xy: 2, 298
+  size: 60, 62
+  orig: 96, 81
+  offset: 16, 9
+  index: -1
+ef/bbzi_01_03
+  rotate: false
+  xy: 2, 236
+  size: 62, 60
+  orig: 96, 81
+  offset: 15, 11
+  index: -1
+ef/bbzi_01_04
+  rotate: true
+  xy: 2, 77
+  size: 54, 56
+  orig: 96, 81
+  offset: 15, 15
+  index: -1
+ef/bbzi_01_05
+  rotate: false
+  xy: 60, 2
+  size: 51, 53
+  orig: 96, 81
+  offset: 15, 18
+  index: -1
+ef/bbzi_01_06
+  rotate: false
+  xy: 68, 312
+  size: 43, 48
+  orig: 96, 81
+  offset: 17, 22
+  index: -1
+ef/dd
+  rotate: false
+  xy: 66, 114
+  size: 34, 34
+  orig: 40, 40
+  offset: 3, 3
+  index: -1
+ef/g3
+  rotate: false
+  xy: 66, 150
+  size: 34, 52
+  orig: 40, 58
+  offset: 3, 4
+  index: -1
+ef/jiahao1
+  rotate: false
+  xy: 82, 470
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ef/quan21
+  rotate: false
+  xy: 2, 496
+  size: 97, 97
+  orig: 120, 120
+  offset: 12, 11
+  index: -1
+ef/quan3 (3)
+  rotate: false
+  xy: 2, 423
+  size: 78, 71
+  orig: 96, 96
+  offset: 9, 9
+  index: -1
+ef/tx_sd101
+  rotate: true
+  xy: 82, 447
+  size: 21, 23
+  orig: 53, 64
+  offset: 18, 11
+  index: -1
+ef/tx_sd102
+  rotate: false
+  xy: 66, 255
+  size: 37, 55
+  orig: 53, 64
+  offset: 3, 7
+  index: -1
+ef/tx_sd103
+  rotate: false
+  xy: 68, 362
+  size: 42, 59
+  orig: 53, 64
+  offset: 1, 5
+  index: -1
+ef/tx_sd104
+  rotate: true
+  xy: 2, 133
+  size: 49, 62
+  orig: 53, 64
+  offset: 0, 2
+  index: -1
+ef/tx_sd105
+  rotate: true
+  xy: 2, 184
+  size: 50, 62
+  orig: 53, 64
+  offset: 1, 1
+  index: -1
+ef/tx_sd106
+  rotate: false
+  xy: 60, 57
+  size: 51, 55
+  orig: 53, 64
+  offset: 1, 0
+  index: -1
+ef/tx_sd107
+  rotate: true
+  xy: 2, 25
+  size: 50, 56
+  orig: 53, 64
+  offset: 2, 0
+  index: -1
+ef/tx_sd108
+  rotate: true
+  xy: 66, 204
+  size: 49, 38
+  orig: 53, 64
+  offset: 3, 0
+  index: -1

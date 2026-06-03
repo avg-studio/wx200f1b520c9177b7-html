@@ -1,0 +1,55 @@
+
+guai_4_tx.png
+size: 1716,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji_a01
+  rotate: false
+  xy: 1, 1
+  size: 244, 266
+  orig: 244, 266
+  offset: 0, 0
+  index: -1
+shouji_a02
+  rotate: false
+  xy: 246, 1
+  size: 244, 266
+  orig: 244, 266
+  offset: 0, 0
+  index: -1
+shouji_a03
+  rotate: false
+  xy: 491, 1
+  size: 244, 266
+  orig: 244, 266
+  offset: 0, 0
+  index: -1
+shouji_a04
+  rotate: false
+  xy: 736, 1
+  size: 244, 266
+  orig: 244, 266
+  offset: 0, 0
+  index: -1
+shouji_a05
+  rotate: false
+  xy: 981, 1
+  size: 244, 266
+  orig: 244, 266
+  offset: 0, 0
+  index: -1
+shouji_a06
+  rotate: false
+  xy: 1226, 1
+  size: 244, 266
+  orig: 244, 266
+  offset: 0, 0
+  index: -1
+shouji_a07
+  rotate: false
+  xy: 1471, 1
+  size: 244, 266
+  orig: 244, 266
+  offset: 0, 0
+  index: -1

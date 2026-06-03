@@ -1,0 +1,104 @@
+
+jiemian_2.png
+size: 1672,1470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_bg
+  rotate: true
+  xy: 2, 466
+  size: 1002, 1668
+  orig: 1004, 1670
+  offset: 1, 1
+  index: -1
+2_guihuo_1
+  rotate: false
+  xy: 1111, 148
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+2_guihuo_2
+  rotate: false
+  xy: 647, 69
+  size: 11, 16
+  orig: 13, 18
+  offset: 1, 1
+  index: -1
+2_guihuo_3
+  rotate: false
+  xy: 647, 117
+  size: 16, 50
+  orig: 16, 51
+  offset: 0, 0
+  index: -1
+2_guihuo_4
+  rotate: false
+  xy: 647, 87
+  size: 12, 28
+  orig: 15, 30
+  offset: 2, 1
+  index: -1
+2_guihuo_5
+  rotate: true
+  xy: 1059, 157
+  size: 38, 50
+  orig: 40, 52
+  offset: 1, 1
+  index: -1
+2_mogu_1
+  rotate: true
+  xy: 508, 23
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+2_mogu_2
+  rotate: false
+  xy: 361, 30
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+2_mogu_3
+  rotate: true
+  xy: 1006, 197
+  size: 267, 366
+  orig: 267, 366
+  offset: 0, 0
+  index: -1
+2_mogu_4
+  rotate: false
+  xy: 2, 166
+  size: 357, 298
+  orig: 357, 298
+  offset: 0, 0
+  index: -1
+2_mogu_5
+  rotate: false
+  xy: 672, 2
+  size: 385, 167
+  orig: 385, 167
+  offset: 0, 0
+  index: -1
+2_mogu_6
+  rotate: true
+  xy: 361, 169
+  size: 295, 309
+  orig: 295, 309
+  offset: 0, 0
+  index: -1
+2_mogu_7
+  rotate: false
+  xy: 672, 171
+  size: 332, 293
+  orig: 332, 293
+  offset: 0, 0
+  index: -1
+2_mogu_8
+  rotate: true
+  xy: 1374, 112
+  size: 352, 216
+  orig: 352, 216
+  offset: 0, 0
+  index: -1

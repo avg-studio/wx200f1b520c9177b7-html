@@ -1,0 +1,83 @@
+
+guai_3_tx.png
+size: 1880,1408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_00000
+  rotate: false
+  xy: 1, 939
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00001
+  rotate: false
+  xy: 1, 470
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00002
+  rotate: false
+  xy: 1, 1
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00003
+  rotate: false
+  xy: 470, 939
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00004
+  rotate: false
+  xy: 470, 470
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00005
+  rotate: false
+  xy: 470, 1
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00006
+  rotate: false
+  xy: 939, 939
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00007
+  rotate: false
+  xy: 939, 470
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00008
+  rotate: false
+  xy: 939, 1
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00009
+  rotate: false
+  xy: 1408, 939
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1
+02_00010
+  rotate: false
+  xy: 1408, 470
+  size: 468, 468
+  orig: 468, 468
+  offset: 0, 0
+  index: -1

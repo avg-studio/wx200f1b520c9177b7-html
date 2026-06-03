@@ -1,0 +1,62 @@
+
+labubu_boss.png
+size: 601,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_arm_L
+  rotate: false
+  xy: 362, 97
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+3_arm_R
+  rotate: false
+  xy: 362, 15
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+3_body
+  rotate: true
+  xy: 2, 2
+  size: 258, 358
+  orig: 258, 358
+  offset: 0, 0
+  index: -1
+3_eye
+  rotate: true
+  xy: 456, 9
+  size: 63, 71
+  orig: 69, 78
+  offset: 2, 2
+  index: -1
+3_leg_L
+  rotate: false
+  xy: 456, 74
+  size: 67, 103
+  orig: 67, 103
+  offset: 0, 0
+  index: -1
+3_leg_R
+  rotate: false
+  xy: 525, 76
+  size: 69, 101
+  orig: 69, 101
+  offset: 0, 0
+  index: -1
+3_tail
+  rotate: true
+  xy: 562, 218
+  size: 42, 37
+  orig: 44, 39
+  offset: 1, 1
+  index: -1
+3_yy
+  rotate: false
+  xy: 362, 179
+  size: 198, 81
+  orig: 198, 81
+  offset: 0, 0
+  index: -1

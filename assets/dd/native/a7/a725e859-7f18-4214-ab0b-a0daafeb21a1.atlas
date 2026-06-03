@@ -1,0 +1,76 @@
+
+guai_11_tx.png
+size: 1288,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/jineng/1_00000
+  rotate: false
+  xy: 1, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/attack/jineng/1_00001
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/attack/jineng/1_00002
+  rotate: false
+  xy: 258, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/attack/jineng/1_00003
+  rotate: false
+  xy: 258, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/attack/jineng/1_00004
+  rotate: false
+  xy: 515, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/attack/jineng/1_00005
+  rotate: false
+  xy: 515, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/attack/jineng/1_00006
+  rotate: false
+  xy: 772, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/attack/jineng/1_00007
+  rotate: false
+  xy: 772, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/attack/jineng/1_00008
+  rotate: false
+  xy: 1029, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/attack/jineng/1_00009
+  rotate: false
+  xy: 1029, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

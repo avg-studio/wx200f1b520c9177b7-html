@@ -1,0 +1,41 @@
+
+bosskuangbao.png
+size: 950,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 755, 30
+  size: 200, 193
+  orig: 202, 197
+  offset: 1, 2
+  index: -1
+a10
+  rotate: false
+  xy: 2, 94
+  size: 751, 136
+  orig: 926, 136
+  offset: 83, 0
+  index: -1
+a11
+  rotate: false
+  xy: 2, 2
+  size: 304, 90
+  orig: 306, 92
+  offset: 1, 1
+  index: -1
+a5
+  rotate: false
+  xy: 308, 19
+  size: 106, 73
+  orig: 109, 75
+  offset: 2, 1
+  index: -1
+a8
+  rotate: false
+  xy: 416, 19
+  size: 106, 73
+  orig: 109, 75
+  offset: 1, 1
+  index: -1

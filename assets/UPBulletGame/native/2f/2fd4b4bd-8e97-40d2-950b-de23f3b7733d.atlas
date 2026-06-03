@@ -1,0 +1,97 @@
+
+guai3.png
+size: 302,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_a_arm_L
+  rotate: true
+  xy: 85, 80
+  size: 75, 91
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+3_a_arm_R
+  rotate: false
+  xy: 229, 66
+  size: 63, 89
+  orig: 64, 89
+  offset: 1, 0
+  index: -1
+3_a_body
+  rotate: false
+  xy: 2, 2
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+3_a_head
+  rotate: false
+  xy: 256, 17
+  size: 44, 47
+  orig: 46, 49
+  offset: 1, 1
+  index: -1
+3_a_leg
+  rotate: false
+  xy: 85, 171
+  size: 96, 71
+  orig: 103, 72
+  offset: 7, 1
+  index: -1
+3_a_yi
+  rotate: true
+  xy: 2, 62
+  size: 89, 68
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+3_arm_L
+  rotate: false
+  xy: 178, 59
+  size: 49, 96
+  orig: 51, 98
+  offset: 1, 0
+  index: -1
+3_arm_R
+  rotate: true
+  xy: 165, 2
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+3_body
+  rotate: false
+  xy: 205, 157
+  size: 91, 116
+  orig: 91, 116
+  offset: 0, 0
+  index: -1
+3_head
+  rotate: false
+  xy: 2, 153
+  size: 81, 89
+  orig: 83, 91
+  offset: 1, 1
+  index: -1
+3_leg_L
+  rotate: true
+  xy: 72, 42
+  size: 36, 91
+  orig: 36, 91
+  offset: 0, 0
+  index: -1
+3_leg_R
+  rotate: true
+  xy: 69, 4
+  size: 36, 91
+  orig: 36, 91
+  offset: 0, 0
+  index: -1
+3_yy
+  rotate: false
+  xy: 2, 244
+  size: 201, 29
+  orig: 201, 29
+  offset: 0, 0
+  index: -1

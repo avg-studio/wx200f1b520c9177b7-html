@@ -1,0 +1,41 @@
+
+wanju_9.png
+size: 730,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9_1
+  rotate: false
+  xy: 708, 29
+  size: 20, 162
+  orig: 20, 162
+  offset: 0, 0
+  index: -1
+9_2
+  rotate: false
+  xy: 651, 20
+  size: 55, 171
+  orig: 55, 171
+  offset: 0, 0
+  index: -1
+9_3
+  rotate: false
+  xy: 493, 193
+  size: 220, 167
+  orig: 220, 167
+  offset: 0, 0
+  index: -1
+9_4
+  rotate: false
+  xy: 493, 2
+  size: 156, 189
+  orig: 156, 189
+  offset: 0, 0
+  index: -1
+shazhi
+  rotate: false
+  xy: 2, 2
+  size: 489, 358
+  orig: 491, 360
+  offset: 1, 1
+  index: -1

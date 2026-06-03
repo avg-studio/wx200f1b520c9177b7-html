@@ -1,0 +1,265 @@
+
+huoyan_eff.png
+size: 1994,1783
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dihuo/dihuo_00000
+  rotate: false
+  xy: 1232, 28
+  size: 613, 136
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00002
+  rotate: false
+  xy: 1232, 166
+  size: 613, 138
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00004
+  rotate: true
+  xy: 1847, 553
+  size: 613, 141
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00006
+  rotate: false
+  xy: 1232, 735
+  size: 613, 143
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00008
+  rotate: false
+  xy: 2, 265
+  size: 613, 143
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00010
+  rotate: false
+  xy: 617, 428
+  size: 613, 142
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00012
+  rotate: false
+  xy: 1232, 591
+  size: 613, 142
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00014
+  rotate: false
+  xy: 2, 121
+  size: 613, 142
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00016
+  rotate: false
+  xy: 617, 284
+  size: 613, 142
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00018
+  rotate: false
+  xy: 617, 2
+  size: 613, 137
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00020
+  rotate: false
+  xy: 1232, 306
+  size: 613, 139
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00022
+  rotate: false
+  xy: 1232, 447
+  size: 613, 142
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00024
+  rotate: true
+  xy: 1847, 1168
+  size: 613, 145
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00026
+  rotate: false
+  xy: 1232, 1175
+  size: 613, 147
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00028
+  rotate: false
+  xy: 2, 556
+  size: 613, 145
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00030
+  rotate: false
+  xy: 1232, 1324
+  size: 613, 149
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00032
+  rotate: false
+  xy: 1232, 1628
+  size: 613, 153
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00034
+  rotate: false
+  xy: 2, 1466
+  size: 613, 156
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00036
+  rotate: false
+  xy: 2, 1309
+  size: 613, 155
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00038
+  rotate: false
+  xy: 2, 1155
+  size: 613, 152
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00040
+  rotate: false
+  xy: 617, 1316
+  size: 613, 151
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00042
+  rotate: false
+  xy: 2, 1003
+  size: 613, 150
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00044
+  rotate: false
+  xy: 617, 1014
+  size: 613, 148
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00046
+  rotate: false
+  xy: 617, 718
+  size: 613, 145
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00048
+  rotate: false
+  xy: 2, 703
+  size: 613, 147
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00050
+  rotate: false
+  xy: 617, 865
+  size: 613, 147
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00052
+  rotate: false
+  xy: 2, 410
+  size: 613, 144
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00054
+  rotate: false
+  xy: 617, 141
+  size: 613, 141
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00056
+  rotate: false
+  xy: 1232, 880
+  size: 613, 145
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00058
+  rotate: false
+  xy: 2, 852
+  size: 613, 149
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00060
+  rotate: false
+  xy: 2, 1624
+  size: 613, 157
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00062
+  rotate: false
+  xy: 617, 1625
+  size: 613, 156
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00064
+  rotate: false
+  xy: 617, 1469
+  size: 613, 154
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00066
+  rotate: false
+  xy: 1232, 1475
+  size: 613, 151
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00068
+  rotate: false
+  xy: 617, 1164
+  size: 613, 150
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00070
+  rotate: false
+  xy: 1232, 1027
+  size: 613, 146
+  orig: 613, 200
+  offset: 0, 35
+  index: -1
+dihuo/dihuo_00072
+  rotate: false
+  xy: 617, 572
+  size: 613, 144
+  orig: 613, 200
+  offset: 0, 35
+  index: -1

@@ -1,0 +1,139 @@
+
+daoshi.png
+size: 237,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_yy
+  rotate: false
+  xy: 2, 112
+  size: 159, 28
+  orig: 159, 28
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 159, 3
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 68
+  size: 103, 42
+  orig: 103, 42
+  offset: 0, 0
+  index: -1
+boss_yy
+  rotate: false
+  xy: 106, 37
+  size: 82, 25
+  orig: 82, 25
+  offset: 0, 0
+  index: -1
+daoshi_arm_L
+  rotate: true
+  xy: 198, 14
+  size: 22, 37
+  orig: 24, 39
+  offset: 1, 1
+  index: -1
+daoshi_arm_L2
+  rotate: false
+  xy: 214, 91
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+daoshi_arm_R
+  rotate: true
+  xy: 163, 115
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+daoshi_body
+  rotate: true
+  xy: 107, 64
+  size: 46, 85
+  orig: 64, 98
+  offset: 0, 0
+  index: -1
+daoshi_elbow
+  rotate: false
+  xy: 194, 79
+  size: 18, 34
+  orig: 20, 36
+  offset: 1, 1
+  index: -1
+daoshi_head
+  rotate: false
+  xy: 2, 2
+  size: 54, 64
+  orig: 56, 66
+  offset: 1, 1
+  index: -1
+daoshi_leg_L
+  rotate: true
+  xy: 190, 38
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+daoshi_leg_R
+  rotate: true
+  xy: 106, 12
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 77, 13
+  size: 6, 5
+  orig: 8, 7
+  offset: 1, 1
+  index: -1
+eye_R
+  rotate: false
+  xy: 227, 83
+  size: 5, 6
+  orig: 7, 8
+  offset: 1, 1
+  index: -1
+eyebow_L
+  rotate: true
+  xy: 214, 83
+  size: 6, 11
+  orig: 8, 13
+  offset: 1, 1
+  index: -1
+eyebow_R
+  rotate: false
+  xy: 198, 7
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 58, 20
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+huzi
+  rotate: false
+  xy: 58, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 194, 64
+  size: 13, 12
+  orig: 15, 14
+  offset: 1, 1
+  index: -1

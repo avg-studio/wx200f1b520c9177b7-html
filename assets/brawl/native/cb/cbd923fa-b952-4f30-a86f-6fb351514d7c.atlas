@@ -1,0 +1,104 @@
+
+duizhangsuo.png
+size: 1634,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_chi_L
+  rotate: true
+  xy: 1462, 5
+  size: 97, 60
+  orig: 99, 62
+  offset: 1, 1
+  index: -1
+1_chi_R
+  rotate: false
+  xy: 1524, 53
+  size: 97, 60
+  orig: 99, 62
+  offset: 1, 1
+  index: -1
+1_eye_L
+  rotate: false
+  xy: 1344, 6
+  size: 22, 18
+  orig: 33, 22
+  offset: 10, 2
+  index: -1
+1_eye_L2
+  rotate: true
+  xy: 1497, 104
+  size: 9, 13
+  orig: 11, 15
+  offset: 1, 1
+  index: -1
+1_eye_R2
+  rotate: true
+  xy: 1497, 104
+  size: 9, 13
+  orig: 11, 15
+  offset: 1, 1
+  index: -1
+1_eye_R
+  rotate: false
+  xy: 1566, 33
+  size: 22, 18
+  orig: 33, 22
+  offset: 1, 2
+  index: -1
+1_head
+  rotate: false
+  xy: 1344, 26
+  size: 116, 76
+  orig: 118, 78
+  offset: 1, 1
+  index: -1
+1_shetou
+  rotate: false
+  xy: 1524, 8
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+liantiao1
+  rotate: false
+  xy: 690, 5
+  size: 325, 209
+  orig: 325, 209
+  offset: 0, 0
+  index: -1
+liantiao2
+  rotate: false
+  xy: 349, 2
+  size: 339, 212
+  orig: 339, 212
+  offset: 0, 0
+  index: -1
+liantiao24
+  rotate: false
+  xy: 1017, 5
+  size: 325, 209
+  orig: 325, 209
+  offset: 0, 0
+  index: -1
+liantiao3
+  rotate: false
+  xy: 2, 2
+  size: 345, 212
+  orig: 345, 212
+  offset: 0, 0
+  index: -1
+suo
+  rotate: false
+  xy: 1344, 104
+  size: 151, 110
+  orig: 153, 112
+  offset: 1, 1
+  index: -1
+suo2
+  rotate: true
+  xy: 1497, 115
+  size: 99, 135
+  orig: 101, 137
+  offset: 1, 1
+  index: -1

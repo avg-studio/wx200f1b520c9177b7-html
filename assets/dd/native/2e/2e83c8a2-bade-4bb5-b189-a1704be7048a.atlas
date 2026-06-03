@@ -1,0 +1,125 @@
+
+guai_11.png
+size: 576,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12_arm_L
+  rotate: true
+  xy: 425, 290
+  size: 92, 142
+  orig: 92, 142
+  offset: 0, 0
+  index: -1
+12_arm_R
+  rotate: true
+  xy: 425, 383
+  size: 93, 142
+  orig: 93, 142
+  offset: 0, 0
+  index: -1
+12_beibao
+  rotate: true
+  xy: 1, 608
+  size: 433, 453
+  orig: 433, 453
+  offset: 0, 0
+  index: -1
+12_body
+  rotate: true
+  xy: 1, 274
+  size: 268, 317
+  orig: 268, 317
+  offset: 0, 0
+  index: -1
+12_elbow_L
+  rotate: false
+  xy: 455, 947
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+12_elbow_R
+  rotate: false
+  xy: 455, 852
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+12_fu
+  rotate: false
+  xy: 319, 275
+  size: 105, 178
+  orig: 105, 178
+  offset: 0, 0
+  index: -1
+12_head
+  rotate: false
+  xy: 100, 3
+  size: 221, 270
+  orig: 221, 270
+  offset: 0, 0
+  index: -1
+12_jianjia
+  rotate: true
+  xy: 1, 1
+  size: 272, 98
+  orig: 272, 98
+  offset: 0, 0
+  index: -1
+12_leg_L
+  rotate: false
+  xy: 455, 662
+  size: 116, 189
+  orig: 116, 189
+  offset: 0, 0
+  index: -1
+12_leg_R
+  rotate: false
+  xy: 455, 477
+  size: 109, 184
+  orig: 109, 184
+  offset: 0, 0
+  index: -1
+12_shengzi
+  rotate: false
+  xy: 322, 70
+  size: 233, 204
+  orig: 233, 204
+  offset: 0, 0
+  index: -1
+12_yuanbao_1
+  rotate: false
+  xy: 322, 17
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+12_yuanbao_2
+  rotate: true
+  xy: 384, 519
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+12_yuanbao_3
+  rotate: false
+  xy: 413, 17
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+12_yuanbao_4
+  rotate: true
+  xy: 319, 454
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1, 543
+  size: 382, 64
+  orig: 382, 64
+  offset: 0, 0
+  index: -1

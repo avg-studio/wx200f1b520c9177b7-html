@@ -1,0 +1,90 @@
+
+boss_2_qiu.png
+size: 201,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: true
+  xy: 126, 404
+  size: 108, 73
+  orig: 109, 73
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 2, 2
+  size: 69, 57
+  orig: 71, 58
+  offset: 1, 1
+  index: -1
+gy3
+  rotate: false
+  xy: 73, 4
+  size: 19, 19
+  orig: 23, 27
+  offset: 4, 4
+  index: -1
+quan1
+  rotate: true
+  xy: 106, 25
+  size: 83, 88
+  orig: 87, 88
+  offset: 3, 0
+  index: -1
+yanwu1_000
+  rotate: true
+  xy: 73, 25
+  size: 34, 29
+  orig: 36, 30
+  offset: 2, 1
+  index: -1
+yanwu1_001
+  rotate: false
+  xy: 123, 339
+  size: 62, 63
+  orig: 65, 64
+  offset: 1, 1
+  index: -1
+yanwu1_002
+  rotate: false
+  xy: 106, 110
+  size: 87, 86
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+yanwu1_003
+  rotate: true
+  xy: 99, 198
+  size: 101, 95
+  orig: 102, 97
+  offset: 0, 2
+  index: -1
+yanwu1_004
+  rotate: true
+  xy: 2, 61
+  size: 112, 102
+  orig: 113, 103
+  offset: 1, 0
+  index: -1
+yanwu1_005
+  rotate: false
+  xy: 2, 301
+  size: 119, 105
+  orig: 120, 108
+  offset: 1, 2
+  index: -1
+yanwu1_006
+  rotate: false
+  xy: 2, 408
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+yanwu1_007
+  rotate: true
+  xy: 2, 175
+  size: 124, 95
+  orig: 126, 98
+  offset: 1, 1
+  index: -1

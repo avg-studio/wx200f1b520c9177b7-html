@@ -1,0 +1,118 @@
+
+guai_4.png
+size: 1524,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_yingzi
+  rotate: true
+  xy: 1, 1
+  size: 525, 538
+  orig: 525, 538
+  offset: 0, 0
+  index: -1
+5_arm_L
+  rotate: true
+  xy: 809, 417
+  size: 109, 155
+  orig: 109, 155
+  offset: 0, 0
+  index: -1
+5_arm_R
+  rotate: true
+  xy: 802, 30
+  size: 121, 237
+  orig: 121, 237
+  offset: 0, 0
+  index: -1
+5_body
+  rotate: false
+  xy: 540, 152
+  size: 268, 374
+  orig: 268, 374
+  offset: 0, 0
+  index: -1
+5_elbow_L
+  rotate: false
+  xy: 1040, 8
+  size: 127, 161
+  orig: 127, 161
+  offset: 0, 0
+  index: -1
+5_eye
+  rotate: true
+  xy: 1425, 132
+  size: 166, 88
+  orig: 166, 88
+  offset: 0, 0
+  index: -1
+5_hair
+  rotate: false
+  xy: 540, 2
+  size: 261, 149
+  orig: 261, 149
+  offset: 0, 0
+  index: -1
+5_head
+  rotate: true
+  xy: 1040, 235
+  size: 291, 296
+  orig: 291, 296
+  offset: 0, 0
+  index: -1
+5_leg_L
+  rotate: false
+  xy: 1425, 23
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+5_leg_R
+  rotate: false
+  xy: 900, 321
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+5_lian_1
+  rotate: false
+  xy: 1337, 376
+  size: 86, 150
+  orig: 86, 150
+  offset: 0, 0
+  index: -1
+5_lian_2
+  rotate: false
+  xy: 809, 254
+  size: 90, 162
+  orig: 90, 162
+  offset: 0, 0
+  index: -1
+5_lian_3
+  rotate: false
+  xy: 1425, 299
+  size: 98, 227
+  orig: 98, 227
+  offset: 0, 0
+  index: -1
+5_mouth
+  rotate: true
+  xy: 1337, 248
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 1192, 2
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 809, 170
+  size: 382, 64
+  orig: 382, 64
+  offset: 0, 0
+  index: -1

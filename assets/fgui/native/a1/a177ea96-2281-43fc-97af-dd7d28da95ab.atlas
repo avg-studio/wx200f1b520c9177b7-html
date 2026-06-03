@@ -1,0 +1,20 @@
+
+unLocksg.png
+size: 194,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k
+  rotate: false
+  xy: 2, 94
+  size: 190, 70
+  orig: 190, 70
+  offset: 0, 0
+  index: -1
+mb
+  rotate: true
+  xy: 2, 2
+  size: 90, 171
+  orig: 92, 171
+  offset: 2, 0
+  index: -1

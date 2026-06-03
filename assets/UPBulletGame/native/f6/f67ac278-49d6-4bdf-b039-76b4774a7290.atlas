@@ -1,0 +1,27 @@
+
+qingwage.png
+size: 321,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 161, 87
+  orig: 161, 87
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 165, 18
+  size: 71, 109
+  orig: 71, 109
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 276, 4
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1

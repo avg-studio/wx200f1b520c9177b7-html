@@ -1,0 +1,118 @@
+
+suodaonvhai.png
+size: 1145,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_arm_L
+  rotate: false
+  xy: 255, 291
+  size: 146, 291
+  orig: 146, 291
+  offset: 0, 0
+  index: -1
+a_arm_R
+  rotate: true
+  xy: 963, 7
+  size: 139, 173
+  orig: 139, 173
+  offset: 0, 0
+  index: -1
+a_body
+  rotate: false
+  xy: 580, 49
+  size: 261, 262
+  orig: 323, 262
+  offset: 61, 0
+  index: -1
+a_head
+  rotate: false
+  xy: 290, 12
+  size: 288, 277
+  orig: 292, 279
+  offset: 1, 1
+  index: -1
+a_leg_L
+  rotate: false
+  xy: 1042, 443
+  size: 81, 139
+  orig: 83, 141
+  offset: 1, 1
+  index: -1
+a_leg_R
+  rotate: false
+  xy: 998, 220
+  size: 145, 176
+  orig: 145, 176
+  offset: 0, 0
+  index: -1
+a_qun_1
+  rotate: true
+  xy: 788, 334
+  size: 248, 97
+  orig: 248, 97
+  offset: 0, 0
+  index: -1
+a_shank_L
+  rotate: false
+  xy: 843, 2
+  size: 118, 144
+  orig: 118, 144
+  offset: 0, 0
+  index: -1
+b_arm_L
+  rotate: true
+  xy: 843, 148
+  size: 184, 153
+  orig: 184, 153
+  offset: 0, 0
+  index: -1
+b_arm_R
+  rotate: true
+  xy: 887, 398
+  size: 184, 153
+  orig: 184, 153
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: false
+  xy: 2, 212
+  size: 251, 370
+  orig: 284, 370
+  offset: 0, 0
+  index: -1
+b_leg_L
+  rotate: false
+  xy: 2, 11
+  size: 142, 199
+  orig: 142, 199
+  offset: 0, 0
+  index: -1
+b_leg_R
+  rotate: false
+  xy: 146, 11
+  size: 142, 199
+  orig: 142, 199
+  offset: 0, 0
+  index: -1
+b_qun_1
+  rotate: true
+  xy: 403, 309
+  size: 273, 111
+  orig: 274, 112
+  offset: 1, 1
+  index: -1
+b_qun_2
+  rotate: true
+  xy: 668, 329
+  size: 253, 118
+  orig: 254, 118
+  offset: 0, 0
+  index: -1
+sas
+  rotate: false
+  xy: 516, 313
+  size: 150, 269
+  orig: 150, 269
+  offset: 0, 0
+  index: -1

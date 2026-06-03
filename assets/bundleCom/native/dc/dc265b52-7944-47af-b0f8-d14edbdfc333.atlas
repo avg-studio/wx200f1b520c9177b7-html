@@ -1,0 +1,97 @@
+
+suo.png
+size: 530,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00000
+  rotate: true
+  xy: 462, 354
+  size: 83, 34
+  orig: 300, 300
+  offset: 108, 133
+  index: -1
+001_00001
+  rotate: true
+  xy: 448, 2
+  size: 189, 78
+  orig: 300, 300
+  offset: 56, 111
+  index: -1
+001_00002
+  rotate: false
+  xy: 2, 270
+  size: 296, 124
+  orig: 300, 300
+  offset: 2, 88
+  index: -1
+001_00003
+  rotate: false
+  xy: 2, 138
+  size: 246, 130
+  orig: 300, 300
+  offset: 27, 85
+  index: -1
+001_00004
+  rotate: false
+  xy: 250, 122
+  size: 196, 135
+  orig: 300, 300
+  offset: 52, 83
+  index: -1
+001_00005
+  rotate: false
+  xy: 300, 259
+  size: 146, 135
+  orig: 300, 300
+  offset: 77, 82
+  index: -1
+001_00006
+  rotate: false
+  xy: 210, 22
+  size: 98, 98
+  orig: 300, 300
+  offset: 101, 101
+  index: -1
+001_00007
+  rotate: false
+  xy: 448, 193
+  size: 80, 78
+  orig: 300, 300
+  offset: 111, 116
+  index: -1
+001_00008
+  rotate: false
+  xy: 448, 273
+  size: 80, 79
+  orig: 300, 300
+  offset: 111, 115
+  index: -1
+guang
+  rotate: false
+  xy: 2, 396
+  size: 458, 77
+  orig: 458, 77
+  offset: 0, 0
+  index: -1
+suo_1
+  rotate: true
+  xy: 506, 441
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+suo_2
+  rotate: false
+  xy: 462, 439
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: true
+  xy: 2, 10
+  size: 126, 206
+  orig: 256, 256
+  offset: 65, 25
+  index: -1

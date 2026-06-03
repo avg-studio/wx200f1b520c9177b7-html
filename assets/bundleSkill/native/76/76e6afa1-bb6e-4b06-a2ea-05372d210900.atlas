@@ -1,0 +1,118 @@
+
+huoyan_eff2.png
+size: 1628,1177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoqiu/huoqiu_00000
+  rotate: true
+  xy: 2, 885
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00001
+  rotate: true
+  xy: 407, 885
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00002
+  rotate: true
+  xy: 812, 885
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00003
+  rotate: true
+  xy: 1217, 885
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00004
+  rotate: true
+  xy: 2, 593
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00005
+  rotate: true
+  xy: 407, 593
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00006
+  rotate: true
+  xy: 812, 593
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00007
+  rotate: true
+  xy: 1217, 593
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00008
+  rotate: true
+  xy: 2, 301
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00009
+  rotate: true
+  xy: 407, 301
+  size: 290, 403
+  orig: 512, 512
+  offset: 105, 29
+  index: -1
+huoqiu/huoqiu_00010
+  rotate: true
+  xy: 812, 301
+  size: 290, 404
+  orig: 512, 512
+  offset: 105, 28
+  index: -1
+huoqiu/huoqiu_00011
+  rotate: true
+  xy: 1218, 301
+  size: 290, 406
+  orig: 512, 512
+  offset: 105, 26
+  index: -1
+huoqiu/huoqiu_00012
+  rotate: true
+  xy: 2, 9
+  size: 290, 406
+  orig: 512, 512
+  offset: 105, 26
+  index: -1
+huoqiu/huoqiu_00013
+  rotate: true
+  xy: 816, 7
+  size: 292, 404
+  orig: 512, 512
+  offset: 103, 28
+  index: -1
+huoqiu/huoqiu_00014
+  rotate: true
+  xy: 1222, 2
+  size: 297, 404
+  orig: 512, 512
+  offset: 98, 28
+  index: -1
+huoqiu/huoqiu_00015
+  rotate: true
+  xy: 410, 9
+  size: 290, 404
+  orig: 512, 512
+  offset: 105, 28
+  index: -1

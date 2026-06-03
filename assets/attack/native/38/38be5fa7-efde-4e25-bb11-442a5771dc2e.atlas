@@ -1,0 +1,118 @@
+
+shanlan.png
+size: 370,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanlan_1
+  rotate: true
+  xy: 115, 36
+  size: 59, 63
+  orig: 61, 65
+  offset: 1, 1
+  index: -1
+shanlan_10
+  rotate: false
+  xy: 2, 6
+  size: 61, 25
+  orig: 63, 27
+  offset: 1, 1
+  index: -1
+shanlan_11
+  rotate: false
+  xy: 2, 97
+  size: 157, 44
+  orig: 159, 46
+  offset: 1, 1
+  index: -1
+shanlan_12
+  rotate: false
+  xy: 161, 97
+  size: 115, 44
+  orig: 117, 46
+  offset: 1, 1
+  index: -1
+shanlan_13
+  rotate: false
+  xy: 278, 97
+  size: 78, 44
+  orig: 80, 46
+  offset: 1, 1
+  index: -1
+shanlan_14
+  rotate: false
+  xy: 296, 5
+  size: 31, 44
+  orig: 33, 46
+  offset: 1, 1
+  index: -1
+shanlan_15
+  rotate: false
+  xy: 180, 7
+  size: 61, 43
+  orig: 63, 45
+  offset: 1, 1
+  index: -1
+shanlan_16
+  rotate: false
+  xy: 330, 51
+  size: 24, 44
+  orig: 26, 46
+  offset: 1, 1
+  index: -1
+shanlan_2
+  rotate: true
+  xy: 243, 3
+  size: 46, 51
+  orig: 49, 53
+  offset: 1, 1
+  index: -1
+shanlan_3
+  rotate: false
+  xy: 329, 20
+  size: 39, 29
+  orig: 41, 32
+  offset: 1, 1
+  index: -1
+shanlan_4
+  rotate: false
+  xy: 2, 33
+  size: 111, 62
+  orig: 113, 64
+  offset: 1, 1
+  index: -1
+shanlan_5
+  rotate: false
+  xy: 115, 5
+  size: 33, 29
+  orig: 35, 32
+  offset: 1, 2
+  index: -1
+shanlan_6
+  rotate: true
+  xy: 150, 2
+  size: 32, 25
+  orig: 34, 27
+  offset: 1, 1
+  index: -1
+shanlan_7
+  rotate: false
+  xy: 65, 3
+  size: 40, 28
+  orig: 42, 30
+  offset: 1, 1
+  index: -1
+shanlan_8
+  rotate: false
+  xy: 180, 52
+  size: 78, 43
+  orig: 80, 46
+  offset: 1, 1
+  index: -1
+shanlan_9
+  rotate: false
+  xy: 260, 51
+  size: 68, 44
+  orig: 70, 46
+  offset: 1, 1
+  index: -1

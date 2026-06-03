@@ -1,0 +1,13 @@
+
+fl.png
+size: 784,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long
+  rotate: false
+  xy: 2, 2
+  size: 189, 780
+  orig: 189, 781
+  offset: 0, 0
+  index: -1

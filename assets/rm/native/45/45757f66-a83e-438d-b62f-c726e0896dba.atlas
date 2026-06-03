@@ -1,0 +1,34 @@
+
+suo.png
+size: 105,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 55, 36
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 34
+  size: 51, 50
+  orig: 51, 51
+  offset: 0, 1
+  index: -1
+5
+  rotate: true
+  xy: 2, 2
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 55, 2
+  size: 45, 32
+  orig: 47, 34
+  offset: 1, 1
+  index: -1

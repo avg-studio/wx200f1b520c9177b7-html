@@ -1,0 +1,188 @@
+
+junren.png
+size: 757,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_arm_L
+  rotate: false
+  xy: 692, 249
+  size: 62, 132
+  orig: 62, 132
+  offset: 0, 0
+  index: -1
+1_arm_R
+  rotate: true
+  xy: 579, 39
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+1_body
+  rotate: true
+  xy: 189, 155
+  size: 80, 156
+  orig: 82, 156
+  offset: 0, 0
+  index: -1
+1_leg_L
+  rotate: true
+  xy: 418, 2
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+1_leg_R
+  rotate: true
+  xy: 491, 2
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+2_arm_L
+  rotate: false
+  xy: 661, 103
+  size: 43, 44
+  orig: 46, 46
+  offset: 2, 1
+  index: -1
+2_arm_R
+  rotate: false
+  xy: 696, 165
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+2_elbow_L
+  rotate: true
+  xy: 321, 80
+  size: 59, 128
+  orig: 61, 130
+  offset: 1, 1
+  index: -1
+3_yy
+  rotate: false
+  xy: 418, 49
+  size: 159, 28
+  orig: 159, 28
+  offset: 0, 0
+  index: -1
+bingkuai
+  rotate: false
+  xy: 2, 288
+  size: 201, 242
+  orig: 201, 242
+  offset: 0, 0
+  index: -1
+bingkuai_1
+  rotate: false
+  xy: 599, 149
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+bingkuai_2
+  rotate: true
+  xy: 347, 141
+  size: 92, 122
+  orig: 92, 122
+  offset: 0, 0
+  index: -1
+bingkuai_3
+  rotate: true
+  xy: 471, 162
+  size: 69, 126
+  orig: 85, 126
+  offset: 0, 0
+  index: -1
+bingkuai_4
+  rotate: true
+  xy: 471, 79
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+bingkuai_5
+  rotate: true
+  xy: 189, 87
+  size: 66, 130
+  orig: 66, 131
+  offset: 0, 0
+  index: -1
+bingkuai_6
+  rotate: false
+  xy: 567, 79
+  size: 92, 68
+  orig: 93, 69
+  offset: 1, 1
+  index: -1
+bingkuai_7
+  rotate: true
+  xy: 298, 2
+  size: 76, 118
+  orig: 76, 120
+  offset: 0, 0
+  index: -1
+bingkuai_8
+  rotate: true
+  xy: 180, 2
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+dian_00002
+  rotate: true
+  xy: 368, 235
+  size: 150, 160
+  orig: 230, 230
+  offset: 20, 36
+  index: -1
+dian_00004
+  rotate: false
+  xy: 2, 137
+  size: 185, 149
+  orig: 230, 230
+  offset: 16, 42
+  index: -1
+dian_00006
+  rotate: false
+  xy: 205, 389
+  size: 186, 141
+  orig: 230, 230
+  offset: 16, 43
+  index: -1
+dian_00008
+  rotate: false
+  xy: 2, 6
+  size: 176, 129
+  orig: 230, 230
+  offset: 26, 46
+  index: -1
+dian_00010
+  rotate: false
+  xy: 393, 387
+  size: 180, 143
+  orig: 230, 230
+  offset: 26, 52
+  index: -1
+dian_00013
+  rotate: false
+  xy: 575, 383
+  size: 180, 147
+  orig: 230, 230
+  offset: 19, 46
+  index: -1
+dian_00015
+  rotate: false
+  xy: 530, 233
+  size: 160, 148
+  orig: 230, 230
+  offset: 25, 44
+  index: -1
+dian_00017
+  rotate: true
+  xy: 205, 237
+  size: 150, 161
+  orig: 230, 230
+  offset: 30, 30
+  index: -1
